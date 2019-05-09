@@ -1,3 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title></title>
+    </titleStmt>
+    <publicationStmt>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Produced by pandoc.</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
+<text>
+<body>
 <p>James Joyce</p>
 <p><hi rendition="simple:italic">Finnegans Wake</hi></p>
 <p>James Joyce</p>
@@ -23729,3 +23745,6 @@
     <p>-.</p>
   </quote>
 </div>
+</body>
+</text>
+</TEI>
