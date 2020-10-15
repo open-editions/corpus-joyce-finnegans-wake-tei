@@ -1,0 +1,3016 @@
+<?xml version='1.0' encoding='utf8'?>
+<standOff type="textMatching">
+  <listBibl>
+    <bibl type="article" id="#FW">
+      <analytic>
+        <title>Finnegans Wake</title>
+        <author>
+          <persName>
+            <surname>Joyce</surname>
+            <forename>James</forename>
+          </persName>
+        </author>
+      </analytic>
+      <monog>
+        <title></title>
+        <date when="1939-5-4"/>
+      </monog>
+    </bibl>
+    <bibl type="article" id="#jstor25473839">
+      <analytic>
+        <title>The Language of Flows: Fluidity, Virology, and "Finnegans Wake"</title>
+        <author>
+          <persName>
+            <surname>Eide</surname>
+            <forename>Marian</forename>
+          </persName>
+        </author>
+      </analytic>
+      <monog>
+        <title>James Joyce Quarterly</title>
+        <date when="1997-7-1"/>
+      </monog>
+    </bibl>
+    <bibl type="article" id="#jstor10.2307/3847642">
+      <analytic>
+        <title>"Finnegans Wake" and the Girls from Boston, Mass</title>
+        <author>
+          <persName>
+            <surname>Glasheen</surname>
+            <forename>Adaline</forename>
+          </persName>
+        </author>
+      </analytic>
+      <monog>
+        <title>The Hudson Review</title>
+        <date when="1954-4-1"/>
+      </monog>
+    </bibl>
+    <bibl type="article" id="#jstor25477812">
+      <analytic>
+        <title>James Joyce, Arthur Griffith, Trieste, and the Hungarian National Character</title>
+        <author>
+          <persName>
+            <surname>Mecsnóber</surname>
+            <forename>Tekla</forename>
+          </persName>
+        </author>
+      </analytic>
+      <monog>
+        <title>James Joyce Quarterly</title>
+        <date when="2001-4-1"/>
+      </monog>
+    </bibl>
+    <bibl type="article" id="#jstor40755287">
+      <analytic>
+        <title>Modernist Hauntology: James Joyce, Hester Dowden, and Shakespeare's Ghost</title>
+        <author>
+          <persName>
+            <surname>Sword</surname>
+            <forename>Helen</forename>
+          </persName>
+        </author>
+      </analytic>
+      <monog>
+        <title>Texas Studies in Literature and Language</title>
+        <date when="1999-7-1"/>
+      </monog>
+    </bibl>
+    <bibl type="article" id="#jstor40232410">
+      <analytic>
+        <title>An Occult Poetics, or, the Secret Rhetoric of Religion</title>
+        <author>
+          <persName>
+            <surname>Gunn</surname>
+            <forename>Joshua</forename>
+          </persName>
+        </author>
+      </analytic>
+      <monog>
+        <title>Rhetoric Society Quarterly</title>
+        <date when="2004-4-1"/>
+      </monog>
+    </bibl>
+    <bibl type="article" id="#jstor25477866">
+      <analytic>
+        <title>The "Twitterlitter" of Nonsense: "Askesis" at "Finnegans Wake"</title>
+        <author>
+          <persName>
+            <surname>Bourbon</surname>
+            <forename>Brett</forename>
+          </persName>
+        </author>
+      </analytic>
+      <monog>
+        <title>James Joyce Quarterly</title>
+        <date when="2002-1-1"/>
+      </monog>
+    </bibl>
+    <bibl type="article" id="#jstor23342806">
+      <analytic>
+        <title>The "united states of Scotia Picta": Scottish Literature and History in "Finnegans Wake"</title>
+        <author>
+          <persName>
+            <surname>Barlow</surname>
+            <forename>Richard</forename>
+          </persName>
+        </author>
+      </analytic>
+      <monog>
+        <title>James Joyce Quarterly</title>
+        <date when="2011-1-1"/>
+      </monog>
+    </bibl>
+    <bibl type="article" id="#jstor26267276">
+      <analytic>
+        <title>Beyond the Rainbow</title>
+        <author>
+          <persName>
+            <surname>EBURY</surname>
+            <forename>KATHERINE</forename>
+          </persName>
+        </author>
+      </analytic>
+      <monog>
+        <title>Joyce Studies Annual</title>
+        <date when="2011-1-1"/>
+      </monog>
+    </bibl>
+    <bibl type="article" id="#jstor25486417">
+      <analytic>
+        <title>The Quiddity of Shem and the Whatness of Shaun</title>
+        <author>
+          <persName>
+            <surname>Benstock</surname>
+            <forename>Bernard</forename>
+          </persName>
+        </author>
+      </analytic>
+      <monog>
+        <title>James Joyce Quarterly</title>
+        <date when="1963-10-1"/>
+      </monog>
+    </bibl>
+    <bibl type="article" id="#jstor25484963">
+      <analytic>
+        <title>Vico's Verum-Factum and the Status of the Object in "Finnegans Wake"</title>
+        <author>
+          <persName>
+            <surname>Purdy</surname>
+            <forename>Strother B.</forename>
+          </persName>
+        </author>
+      </analytic>
+      <monog>
+        <title>James Joyce Quarterly</title>
+        <date when="1989-4-1"/>
+      </monog>
+    </bibl>
+    <bibl type="article" id="#jstor30075986">
+      <analytic>
+        <title>Work in Progress</title>
+        <author>
+          <persName>
+            <surname>Schenoni</surname>
+            <forename>Luigi</forename>
+          </persName>
+        </author>
+      </analytic>
+      <monog>
+        <title>James Joyce Broadsheet</title>
+        <date when="1982-2-1"/>
+      </monog>
+    </bibl>
+    <bibl type="article" id="#jstor25473912">
+      <analytic>
+        <title>"In the Name of Annah": Islam and "Salam" in Joyce's "Finnegans Wake"</title>
+        <author>
+          <persName>
+            <surname>Yared</surname>
+            <forename>Aida</forename>
+          </persName>
+        </author>
+      </analytic>
+      <monog>
+        <title>James Joyce Quarterly</title>
+        <date when="1998-1-1"/>
+      </monog>
+    </bibl>
+    <bibl type="article" id="#jstor26798631">
+      <analytic>
+        <title>"A phantom city, phaked of philim pholk"</title>
+        <author>
+          <persName>
+            <surname>MISHLER</surname>
+            <forename>KATIE</forename>
+          </persName>
+        </author>
+      </analytic>
+      <monog>
+        <title>Joyce Studies Annual</title>
+        <date when="2018-1-1"/>
+      </monog>
+    </bibl>
+    <bibl type="article" id="#jstor25089215">
+      <analytic>
+        <title>The Jokes at the Wake</title>
+        <author>
+          <persName>
+            <surname>Kenner</surname>
+            <forename>Hugh</forename>
+          </persName>
+        </author>
+      </analytic>
+      <monog>
+        <title>The Massachusetts Review</title>
+        <date when="1981-12-1"/>
+      </monog>
+    </bibl>
+    <bibl type="article" id="#jstorcomplitstudies.49.1.0001">
+      <analytic>
+        <title>“In the Flash of an Eye a Multiplicity of Things”:</title>
+        <author>
+          <persName>
+            <surname></surname>
+            <forename></forename>
+          </persName>
+        </author>
+      </analytic>
+      <monog>
+        <title>Comparative Literature Studies</title>
+        <date when="2012-3-1"/>
+      </monog>
+    </bibl>
+    <bibl type="article" id="#jstor10.2307/462046">
+      <analytic>
+        <title>At the Margin of Discourse: Footnotes in the Fictional Text</title>
+        <author>
+          <persName>
+            <surname>Benstock</surname>
+            <forename>Shari</forename>
+          </persName>
+        </author>
+      </analytic>
+      <monog>
+        <title>PMLA</title>
+        <date when="1983-3-1"/>
+      </monog>
+    </bibl>
+    <bibl type="article" id="#jstor26283623">
+      <analytic>
+        <title>Dantellising Peaches and Miching Daddy, the Gushy Old Goof: The Browning Case and "Finnegans Wake"</title>
+        <author>
+          <persName>
+            <surname>POLHEMUS</surname>
+            <forename>ROBERT M.</forename>
+          </persName>
+        </author>
+      </analytic>
+      <monog>
+        <title>Joyce Studies Annual</title>
+        <date when="1994-7-1"/>
+      </monog>
+    </bibl>
+    <bibl type="article" id="#jstor26288742">
+      <analytic>
+        <title>Attempting to Teach</title>
+        <author>
+          <persName>
+            <surname>DEVLIN</surname>
+            <forename>KIMBERLY J.</forename>
+          </persName>
+        </author>
+      </analytic>
+      <monog>
+        <title>Joyce Studies Annual</title>
+        <date when="2009-1-1"/>
+      </monog>
+    </bibl>
+    <bibl type="article" id="#jstor10.2307/2872465">
+      <analytic>
+        <title>Swift the man in Finnegans Wake</title>
+        <author>
+          <persName>
+            <surname>Broes</surname>
+            <forename>Arthur T.</forename>
+          </persName>
+        </author>
+      </analytic>
+      <monog>
+        <title>ELH</title>
+        <date when="1976-4-1"/>
+      </monog>
+    </bibl>
+    <bibl type="article" id="#jstor26283686">
+      <analytic>
+        <title>The Perversions of "Aerse" and the Anglo-Irish Middle Voice in "Finnegans Wake"</title>
+        <author>
+          <persName>
+            <surname>MILESI</surname>
+            <forename>LAURENT</forename>
+          </persName>
+        </author>
+      </analytic>
+      <monog>
+        <title>Joyce Studies Annual</title>
+        <date when="1993-7-1"/>
+      </monog>
+    </bibl>
+    <bibl type="article" id="#jstor25473699">
+      <analytic>
+        <title>Perils of Marriage in "Finnegans Wake"</title>
+        <author>
+          <persName>
+            <surname>Beckman</surname>
+            <forename>Richard</forename>
+          </persName>
+        </author>
+      </analytic>
+      <monog>
+        <title>James Joyce Quarterly</title>
+        <date when="1995-10-1"/>
+      </monog>
+    </bibl>
+    <bibl type="article" id="#jstor25486603">
+      <analytic>
+        <title>Finnegans Wake, Page 185: An Explication</title>
+        <author>
+          <persName>
+            <surname>Boyle</surname>
+            <forename>Robert</forename>
+          </persName>
+        </author>
+      </analytic>
+      <monog>
+        <title>James Joyce Quarterly</title>
+        <date when="1966-10-1"/>
+      </monog>
+    </bibl>
+    <bibl type="article" id="#jstor25486973">
+      <analytic>
+        <title>Turkish References in "Finnegans Wake"</title>
+        <author>
+          <persName>
+            <surname>McCarthy</surname>
+            <forename>Kevin M.</forename>
+          </persName>
+        </author>
+      </analytic>
+      <monog>
+        <title>James Joyce Quarterly</title>
+        <date when="1972-12-1"/>
+      </monog>
+    </bibl>
+    <bibl type="article" id="#jstor44871092">
+      <analytic>
+        <title>THE HAUNTED INKBOTTLE: SHEM'S SHIT-SCRIPT AND ANAL EROTICISM IN FINNEGANS WAKE</title>
+        <author>
+          <persName>
+            <surname>HEUMANN</surname>
+            <forename>MICHAEL</forename>
+          </persName>
+        </author>
+      </analytic>
+      <monog>
+        <title>European Joyce Studies</title>
+        <date when="2001-1-1"/>
+      </monog>
+    </bibl>
+    <bibl type="article" id="#jstor26283685">
+      <analytic>
+        <title>Vico, Natural Law Philosophy, and Joyce's Ireland</title>
+        <author>
+          <persName>
+            <surname>HOFHEINZ</surname>
+            <forename>THOMAS C.</forename>
+          </persName>
+        </author>
+      </analytic>
+      <monog>
+        <title>Joyce Studies Annual</title>
+        <date when="1993-7-1"/>
+      </monog>
+    </bibl>
+    <bibl type="article" id="#jstor25478101">
+      <analytic>
+        <title>The Ass and the Four: Oppositional Figures for the Reader in "Finnegans Wake"</title>
+        <author>
+          <persName>
+            <surname>Cavender</surname>
+            <forename>Anne L.</forename>
+          </persName>
+        </author>
+      </analytic>
+      <monog>
+        <title>James Joyce Quarterly</title>
+        <date when="2004-7-1"/>
+      </monog>
+    </bibl>
+    <bibl type="article" id="#jstor26439553">
+      <analytic>
+        <title>"OUR TOWN" AND THE GOLDEN VEIL</title>
+        <author>
+          <persName>
+            <surname>SCOTT</surname>
+            <forename>WINFIELD TOWNLEY</forename>
+          </persName>
+        </author>
+      </analytic>
+      <monog>
+        <title>The Virginia Quarterly Review</title>
+        <date when="1953-1-1"/>
+      </monog>
+    </bibl>
+    <bibl type="article" id="#jstor10.2307/1209123">
+      <analytic>
+        <title> "Concrete Prose" in the Nineties: Haroldo de Campos's "Galáxias" and after </title>
+        <author>
+          <persName>
+            <surname>Perloff</surname>
+            <forename>Marjorie</forename>
+          </persName>
+        </author>
+      </analytic>
+      <monog>
+        <title>Contemporary Literature</title>
+        <date when="2001-7-1"/>
+      </monog>
+    </bibl>
+    <bibl type="article" id="#jstor26277079">
+      <analytic>
+        <title>"WHITE AND PINK ELEPHANTS": "Finnegans Wake" and the Tradition of "Unintelligibility"</title>
+        <author>
+          <persName>
+            <surname>BIERMAN</surname>
+            <forename>ROBERT</forename>
+          </persName>
+        </author>
+      </analytic>
+      <monog>
+        <title>Modern Fiction Studies</title>
+        <date when="1958-4-1"/>
+      </monog>
+    </bibl>
+    <bibl type="article" id="#jstor25477892">
+      <analytic>
+        <title>"So It Appeals to All of Us": The Death of God, "Finnegans Wake", and the Eternal Recurrence</title>
+        <author>
+          <persName>
+            <surname>Mitchell</surname>
+            <forename>Andrew John</forename>
+          </persName>
+        </author>
+      </analytic>
+      <monog>
+        <title>James Joyce Quarterly</title>
+        <date when="2002-4-1"/>
+      </monog>
+    </bibl>
+    <bibl type="article" id="#jstor25476464">
+      <analytic>
+        <title>"Epistlemadethemology" (FW374.17): ALP's Letter and the Tradition of Interpolated Letters</title>
+        <author>
+          <persName>
+            <surname>Füger</surname>
+            <forename>Wilhelm</forename>
+          </persName>
+        </author>
+      </analytic>
+      <monog>
+        <title>James Joyce Quarterly</title>
+        <date when="1982-7-1"/>
+      </monog>
+    </bibl>
+    <bibl type="article" id="#jstor25476354">
+      <analytic>
+        <title>Joyce, Shakespeare, and Pulsebeat Poetry</title>
+        <author>
+          <persName>
+            <surname>Schavrien</surname>
+            <forename>Judy</forename>
+          </persName>
+        </author>
+      </analytic>
+      <monog>
+        <title>James Joyce Quarterly</title>
+        <date when="1981-1-1"/>
+      </monog>
+    </bibl>
+    <bibl type="article" id="#jstor30076371">
+      <analytic>
+        <title>News</title>
+        <author>
+          <persName>
+            <surname>Rabaté</surname>
+            <forename>J. M.</forename>
+          </persName>
+        </author>
+      </analytic>
+      <monog>
+        <title>James Joyce Broadsheet</title>
+        <date when="1983-10-1"/>
+      </monog>
+    </bibl>
+    <bibl type="article" id="#jstor26434196">
+      <analytic>
+        <title>THE CRUELTY AND BEAUTY OF WORDS</title>
+        <author>
+          <persName>
+            <surname>O'FAOLÁIN</surname>
+            <forename>SEÁN</forename>
+          </persName>
+        </author>
+      </analytic>
+      <monog>
+        <title>The Virginia Quarterly Review</title>
+        <date when="1928-4-1"/>
+      </monog>
+    </bibl>
+    <bibl type="article" id="#jstor25571080">
+      <analytic>
+        <title>Seánsong, or Whatyoumacormack, in "Finnegans Wake"</title>
+        <author>
+          <persName>
+            <surname>Reilly</surname>
+            <forename>Patrick</forename>
+          </persName>
+        </author>
+      </analytic>
+      <monog>
+        <title>James Joyce Quarterly</title>
+        <date when="2007-7-1"/>
+      </monog>
+    </bibl>
+    <bibl type="article" id="#jstor23342954">
+      <analytic>
+        <title>Bitter Milk: Joyce's Shem Nursed Hysterically</title>
+        <author>
+          <persName>
+            <surname>Brivic</surname>
+            <forename>Shelly</forename>
+          </persName>
+        </author>
+      </analytic>
+      <monog>
+        <title>James Joyce Quarterly</title>
+        <date when="2011-4-1"/>
+      </monog>
+    </bibl>
+    <bibl type="article" id="#jstor25477893">
+      <analytic>
+        <title>The Logic of Incest: Issy, Princes, and Professors</title>
+        <author>
+          <persName>
+            <surname>Nash</surname>
+            <forename>John</forename>
+          </persName>
+        </author>
+      </analytic>
+      <monog>
+        <title>James Joyce Quarterly</title>
+        <date when="2002-4-1"/>
+      </monog>
+    </bibl>
+    <bibl type="article" id="#jstor44871373">
+      <analytic>
+        <title>Fullstoppers and Fools Tops: The "Compunction" of Punctuation and Geometry in "Finnegans Wake"</title>
+        <author>
+          <persName>
+            <surname>Sabatini</surname>
+            <forename>Federico</forename>
+          </persName>
+        </author>
+      </analytic>
+      <monog>
+        <title>European Joyce Studies</title>
+        <date when="2014-1-1"/>
+      </monog>
+    </bibl>
+    <bibl type="article" id="#jstor25571022">
+      <analytic>
+        <title>Lure of the Fallen Seraphim: Sovereignty and Sacrifice in James Joyce and Georges Bataille</title>
+        <author>
+          <persName>
+            <surname>Singleton</surname>
+            <forename>Mark</forename>
+          </persName>
+        </author>
+      </analytic>
+      <monog>
+        <title>James Joyce Quarterly</title>
+        <date when="2007-1-1"/>
+      </monog>
+    </bibl>
+    <bibl type="article" id="#jstor25473949">
+      <analytic>
+        <title>The Eternal Return of "The Seim Anew": Joyce's Vico and Deleuze's Nietzsche</title>
+        <author>
+          <persName>
+            <surname>Murphy</surname>
+            <forename>Timothy S.</forename>
+          </persName>
+        </author>
+      </analytic>
+      <monog>
+        <title>James Joyce Quarterly</title>
+        <date when="1998-7-1"/>
+      </monog>
+    </bibl>
+    <bibl type="article" id="#jstor26283004">
+      <analytic>
+        <title>APOSTROPHIZING THE FEMININE IN "FINNEGANS WAKE"</title>
+        <author>
+          <persName>
+            <surname>Benstock</surname>
+            <forename>Shari</forename>
+          </persName>
+        </author>
+      </analytic>
+      <monog>
+        <title>Modern Fiction Studies</title>
+        <date when="1989-10-1"/>
+      </monog>
+    </bibl>
+    <bibl type="article" id="#jstor43492425">
+      <analytic>
+        <title>Growing up and Growing Down in "Finnegans Wake"</title>
+        <author>
+          <persName>
+            <surname>Lee-Six</surname>
+            <forename>Edward</forename>
+          </persName>
+        </author>
+      </analytic>
+      <monog>
+        <title>The Cambridge Quarterly</title>
+        <date when="2012-12-1"/>
+      </monog>
+    </bibl>
+    <bibl type="article" id="#jstor44870951">
+      <analytic>
+        <title>"BEGIN TO FORGET IT": THE PREPROVIDED MEMORY OF "FINNEGANS WAKE"</title>
+        <author>
+          <persName>
+            <surname>MAILHOS</surname>
+            <forename>JACQUES</forename>
+          </persName>
+        </author>
+      </analytic>
+      <monog>
+        <title>European Joyce Studies</title>
+        <date when="1994-1-1"/>
+      </monog>
+    </bibl>
+    <bibl type="article" id="#jstor26635271">
+      <analytic>
+        <title>"Twice-Told Tales in Finnegans Wake II:" The Ondt and the Gracehoper and the Norwegian Captain</title>
+        <author>
+          <persName>
+            <surname>Benstock</surname>
+            <forename>Bernard</forename>
+          </persName>
+        </author>
+      </analytic>
+      <monog>
+        <title>James Joyce Literary Supplement</title>
+        <date when="2001-4-1"/>
+      </monog>
+    </bibl>
+    <bibl type="article" id="#jstor25485100">
+      <analytic>
+        <title>Waalworth and Capapole</title>
+        <author>
+          <persName>
+            <surname>Gordon</surname>
+            <forename>John</forename>
+          </persName>
+        </author>
+      </analytic>
+      <monog>
+        <title>James Joyce Quarterly</title>
+        <date when="1990-7-1"/>
+      </monog>
+    </bibl>
+    <bibl type="article" id="#jstor25474090">
+      <analytic>
+        <title>Universalizing Languages: "Finnegans Wake" Meets Basic English</title>
+        <author>
+          <persName>
+            <surname>Sailer</surname>
+            <forename>Susan Shaw</forename>
+          </persName>
+        </author>
+      </analytic>
+      <monog>
+        <title>James Joyce Quarterly</title>
+        <date when="1999-7-1"/>
+      </monog>
+    </bibl>
+    <bibl type="article" id="#jstor25487023">
+      <analytic>
+        <title>Miracle in Black Ink: A Glance at Joyce's Use of His Eucharistic Image</title>
+        <author>
+          <persName>
+            <surname>Boyle</surname>
+            <forename>Robert</forename>
+          </persName>
+        </author>
+      </analytic>
+      <monog>
+        <title>James Joyce Quarterly</title>
+        <date when="1972-10-1"/>
+      </monog>
+    </bibl>
+    <bibl type="article" id="#jstor27795925">
+      <analytic>
+        <title>THE BOOK OF DOUBLENDS JINED</title>
+        <author>
+          <persName>
+            <surname>Morse</surname>
+            <forename>J. Mitchell</forename>
+          </persName>
+        </author>
+      </analytic>
+      <monog>
+        <title>The Journal of General Education</title>
+        <date when="1964-7-1"/>
+      </monog>
+    </bibl>
+    <bibl type="article" id="#jstor30076364">
+      <analytic>
+        <title>New Translations of "Finnegans Wake" into Italian, French, German and Catalan</title>
+        <author>
+          <persName>
+            <surname>Joyce</surname>
+            <forename>James</forename>
+          </persName>
+        </author>
+      </analytic>
+      <monog>
+        <title>James Joyce Broadsheet</title>
+        <date when="1983-10-1"/>
+      </monog>
+    </bibl>
+    <bibl type="article" id="#jstor25476968">
+      <analytic>
+        <title>Identifying the Irish Printed Sources for "Finnegans Wake"</title>
+        <author>
+          <persName>
+            <surname>Kelleher</surname>
+            <forename>John V.</forename>
+          </persName>
+        </author>
+      </analytic>
+      <monog>
+        <title>Irish University Review</title>
+        <date when="1971-4-1"/>
+      </monog>
+    </bibl>
+    <bibl type="article" id="#jstor25477800">
+      <analytic>
+        <title>Letters</title>
+        <author>
+          <persName>
+            <surname>Morse</surname>
+            <forename>J. Mitchell</forename>
+          </persName>
+        </author>
+      </analytic>
+      <monog>
+        <title>James Joyce Quarterly</title>
+        <date when="2000-10-1"/>
+      </monog>
+    </bibl>
+    <bibl type="article" id="#jstor26288743">
+      <analytic>
+        <title>Collideorscape</title>
+        <author>
+          <persName>
+            <surname>KITCHER</surname>
+            <forename>PHILIP</forename>
+          </persName>
+        </author>
+      </analytic>
+      <monog>
+        <title>Joyce Studies Annual</title>
+        <date when="2009-1-1"/>
+      </monog>
+    </bibl>
+    <bibl type="article" id="#jstor25485091">
+      <analytic>
+        <title>Networking in "Finnegans Wake"</title>
+        <author>
+          <persName>
+            <surname>Clark</surname>
+            <forename>Hilary</forename>
+          </persName>
+        </author>
+      </analytic>
+      <monog>
+        <title>James Joyce Quarterly</title>
+        <date when="1990-7-1"/>
+      </monog>
+    </bibl>
+    <bibl type="article" id="#jstor25485421">
+      <analytic>
+        <title>Another Book at the "Wake": Indian Mysticism and the "Bhagavad-Gita" in 1.4 of "Finnegans Wake"</title>
+        <author>
+          <persName>
+            <surname>Vespa</surname>
+            <forename>Jack</forename>
+          </persName>
+        </author>
+      </analytic>
+      <monog>
+        <title>James Joyce Quarterly</title>
+        <date when="1994-1-1"/>
+      </monog>
+    </bibl>
+    <bibl type="article" id="#jstor26333469">
+      <analytic>
+        <title>At Swim-Two-Birds Again</title>
+        <author>
+          <persName>
+            <surname>Keohane</surname>
+            <forename>Kieran</forename>
+          </persName>
+        </author>
+      </analytic>
+      <monog>
+        <title>The Canadian Journal of Irish Studies</title>
+        <date when="2017-1-1"/>
+      </monog>
+    </bibl>
+    <bibl type="article" id="#jstor10.2307/2873105">
+      <analytic>
+        <title>"Only is Order Othered. Nought is Nulled": Finnegans Wake and Middle and Late Zukofsky</title>
+        <author>
+          <persName>
+            <surname>Quartermain</surname>
+            <forename>Peter</forename>
+          </persName>
+        </author>
+      </analytic>
+      <monog>
+        <title>ELH</title>
+        <date when="1987-12-1"/>
+      </monog>
+    </bibl>
+    <bibl type="article" id="#jstor30225332">
+      <analytic>
+        <title>The Player's Song of "Finnegans Wake": Translating Sound Sense</title>
+        <author>
+          <persName>
+            <surname>Wang</surname>
+            <forename>Jennie</forename>
+          </persName>
+        </author>
+      </analytic>
+      <monog>
+        <title>The Journal of Narrative Technique</title>
+        <date when="1991-4-1"/>
+      </monog>
+    </bibl>
+    <bibl type="article" id="#jstor44870950">
+      <analytic>
+        <title>"AS PER PERIODICITY": VICO, FREUD AND THE SERIAL AWAKENING OF BOOK III CHAPTER 4</title>
+        <author>
+          <persName>
+            <surname>TREIP</surname>
+            <forename>ANDREW</forename>
+          </persName>
+        </author>
+      </analytic>
+      <monog>
+        <title>European Joyce Studies</title>
+        <date when="1994-1-1"/>
+      </monog>
+    </bibl>
+    <bibl type="article" id="#jstor25487052">
+      <analytic>
+        <title>Letters to the Editor</title>
+        <author>
+          <persName>
+            <surname>O'Hanlon</surname>
+            <forename>R. Danis</forename>
+          </persName>
+        </author>
+      </analytic>
+      <monog>
+        <title>James Joyce Quarterly</title>
+        <date when="1973-1-1"/>
+      </monog>
+    </bibl>
+    <bibl type="article" id="#jstor26279199">
+      <analytic>
+        <title>EVERY TELLING HAS A TALING: A READING OF THE NARRATIVE OF "FINNEGANS WAKE"</title>
+        <author>
+          <persName>
+            <surname>Benstock</surname>
+            <forename>Bernard</forename>
+          </persName>
+        </author>
+      </analytic>
+      <monog>
+        <title>Modern Fiction Studies</title>
+        <date when="1969-4-1"/>
+      </monog>
+    </bibl>
+    <bibl type="article" id="#jstor10.2307/374667">
+      <analytic>
+        <title>The Case for Irrelevance</title>
+        <author>
+          <persName>
+            <surname>Morse</surname>
+            <forename>J. Mitchell</forename>
+          </persName>
+        </author>
+      </analytic>
+      <monog>
+        <title>College English</title>
+        <date when="1968-12-1"/>
+      </monog>
+    </bibl>
+    <bibl type="article" id="#jstor26285218">
+      <analytic>
+        <title>Mapping Echoland</title>
+        <author>
+          <persName>
+            <surname>FORDHAM</surname>
+            <forename>FINN</forename>
+          </persName>
+        </author>
+      </analytic>
+      <monog>
+        <title>Joyce Studies Annual</title>
+        <date when="2000-7-1"/>
+      </monog>
+    </bibl>
+    <bibl type="article" id="#jstor10.2307/3847912">
+      <analytic>
+        <title>Joyce's "Exiles"</title>
+        <author>
+          <persName>
+            <surname>Kenner</surname>
+            <forename>Hugh</forename>
+          </persName>
+        </author>
+      </analytic>
+      <monog>
+        <title>The Hudson Review</title>
+        <date when="1952-10-1"/>
+      </monog>
+    </bibl>
+    <bibl type="article" id="#jstor3831742">
+      <analytic>
+        <title>Jove's Word: "Finnegans Wake", 80.20-81.13</title>
+        <author>
+          <persName>
+            <surname>Beckman</surname>
+            <forename>Richard</forename>
+          </persName>
+        </author>
+      </analytic>
+      <monog>
+        <title>Journal of Modern Literature</title>
+        <date when="1998-12-1"/>
+      </monog>
+    </bibl>
+    <bibl type="article" id="#jstor24598791">
+      <analytic>
+        <title>Possible Worlds Theory and the Fantasy Universe of "Finnegans Wake"</title>
+        <author>
+          <persName>
+            <surname>Norris</surname>
+            <forename>Margot</forename>
+          </persName>
+        </author>
+      </analytic>
+      <monog>
+        <title>James Joyce Quarterly</title>
+        <date when="2012-10-1"/>
+      </monog>
+    </bibl>
+    <bibl type="article" id="#jstor10.2307/25512487">
+      <analytic>
+        <title>Sendence of Sundance: Sense, Communication and Community in Finnegans Wake</title>
+        <author>
+          <persName>
+            <surname>Theall</surname>
+            <forename>Donald F.</forename>
+          </persName>
+        </author>
+      </analytic>
+      <monog>
+        <title>The Canadian Journal of Irish Studies</title>
+        <date when="1980-6-1"/>
+      </monog>
+    </bibl>
+    <bibl type="article" id="#jstor26285217">
+      <analytic>
+        <title>Joyce's Sources: Sir Richard F. Burton's "Terminal Essay" in "Finnegans Wake"</title>
+        <author>
+          <persName>
+            <surname>YARED</surname>
+            <forename>AIDA</forename>
+          </persName>
+        </author>
+      </analytic>
+      <monog>
+        <title>Joyce Studies Annual</title>
+        <date when="2000-7-1"/>
+      </monog>
+    </bibl>
+    <bibl type="article" id="#jstor24458563">
+      <analytic>
+        <title>RESENTFULNESS TRANSFORMED: Joyce — from "Dubliners" to "Finnegan's Wake"</title>
+        <author>
+          <persName>
+            <surname>GERHART</surname>
+            <forename>MARY</forename>
+          </persName>
+        </author>
+      </analytic>
+      <monog>
+        <title>CrossCurrents</title>
+        <date when="1981-7-1"/>
+      </monog>
+    </bibl>
+    <bibl type="article" id="#jstor26283675">
+      <analytic>
+        <title>Beyond Translation: Italian Re-writings of "Finnegans Wake"</title>
+        <author>
+          <persName>
+            <surname>BOSINELLI</surname>
+            <forename>ROSA MARIA BOLLETTIERI</forename>
+          </persName>
+        </author>
+      </analytic>
+      <monog>
+        <title>Joyce Studies Annual</title>
+        <date when="1990-7-1"/>
+      </monog>
+    </bibl>
+    <bibl type="article" id="#jstor30032068">
+      <analytic>
+        <title>Issy's Footnote: Disruptive Narrative and the Discursive Structure of Incest in "Finnegans Wake"</title>
+        <author>
+          <persName>
+            <surname>Shelton</surname>
+            <forename>Jen</forename>
+          </persName>
+        </author>
+      </analytic>
+      <monog>
+        <title>ELH</title>
+        <date when="1999-4-1"/>
+      </monog>
+    </bibl>
+    <bibl type="article" id="#jstor26285215">
+      <analytic>
+        <title>A Proverbial Tale of Tree or Stone: Joyce's Rewriting of Plato's Reminders</title>
+        <author>
+          <persName>
+            <surname>GOLD</surname>
+            <forename>MOSHE</forename>
+          </persName>
+        </author>
+      </analytic>
+      <monog>
+        <title>Joyce Studies Annual</title>
+        <date when="2000-7-1"/>
+      </monog>
+    </bibl>
+    <bibl type="article" id="#jstor44871046">
+      <analytic>
+        <title>TRISTAN AND ISOLDE OR THE TRIANGLES OF DESIRE: JEALOUSY, EROTICISM AND POETICS</title>
+        <author>
+          <persName>
+            <surname>SCHLOSSMAN</surname>
+            <forename>BERYL</forename>
+          </persName>
+        </author>
+      </analytic>
+      <monog>
+        <title>European Joyce Studies</title>
+        <date when="1995-1-1"/>
+      </monog>
+    </bibl>
+    <bibl type="article" id="#jstor25485243">
+      <analytic>
+        <title>The Terror and Pity of Love: ALP's Soliloquy</title>
+        <author>
+          <persName>
+            <surname>Brivic</surname>
+            <forename>Sheldon</forename>
+          </persName>
+        </author>
+      </analytic>
+      <monog>
+        <title>James Joyce Quarterly</title>
+        <date when="1991-10-1"/>
+      </monog>
+    </bibl>
+    <bibl type="article" id="#jstor27820964">
+      <analytic>
+        <title>Finnegans Wake: The Dating Game</title>
+        <author>
+          <persName>
+            <surname>Reichenberg</surname>
+            <forename>Peter J.</forename>
+          </persName>
+        </author>
+      </analytic>
+      <monog>
+        <title>James Joyce Quarterly</title>
+        <date when="2009-1-1"/>
+      </monog>
+    </bibl>
+    <bibl type="article" id="#jstor1345489">
+      <analytic>
+        <title>"Finnegans Wake" as Modernist Historiography</title>
+        <author>
+          <persName>
+            <surname>Altieri</surname>
+            <forename>Charles</forename>
+          </persName>
+        </author>
+      </analytic>
+      <monog>
+        <title>NOVEL: A Forum on Fiction</title>
+        <date when="1988-1-1"/>
+      </monog>
+    </bibl>
+    <bibl type="article" id="#jstor10.2307/461804">
+      <analytic>
+        <title>Originality and Repetition in Finnegans Wake and Ulysses</title>
+        <author>
+          <persName>
+            <surname>Levine</surname>
+            <forename>Jennifer Schiffer</forename>
+          </persName>
+        </author>
+      </analytic>
+      <monog>
+        <title>PMLA</title>
+        <date when="1979-1-1"/>
+      </monog>
+    </bibl>
+    <bibl type="article" id="#jstor30224552">
+      <analytic>
+        <title>In the "Nummifeed Confusionary": Reading the Negative Confession of "Finnegans Wake"</title>
+        <author>
+          <persName>
+            <surname>Franke</surname>
+            <forename>Damon</forename>
+          </persName>
+        </author>
+      </analytic>
+      <monog>
+        <title>Journal of Narrative Theory</title>
+        <date when="2000-1-1"/>
+      </monog>
+    </bibl>
+    <bibl type="article" id="#jstor30053270">
+      <analytic>
+        <title>Darktongues: Fulfulde and Hausa in Finnegans Wake</title>
+        <author>
+          <persName>
+            <surname>Reisman</surname>
+            <forename>Karl</forename>
+          </persName>
+        </author>
+      </analytic>
+      <monog>
+        <title>Journal of Modern Literature</title>
+        <date when="2007-12-1"/>
+      </monog>
+    </bibl>
+    <bibl type="article" id="#jstor10.2307/1207825">
+      <analytic>
+        <title>"Finnegans Wake" and Sexual Metamorphosis</title>
+        <author>
+          <persName>
+            <surname>Vickery</surname>
+            <forename>John B.</forename>
+          </persName>
+        </author>
+      </analytic>
+      <monog>
+        <title>Contemporary Literature</title>
+        <date when="1972-4-1"/>
+      </monog>
+    </bibl>
+    <bibl type="article" id="#jstor3831140">
+      <analytic>
+        <title>Bedeviling the Typographer's Ass: "Ulysses and Finnegans Wake"</title>
+        <author>
+          <persName>
+            <surname>Benstock</surname>
+            <forename>Bernard</forename>
+          </persName>
+        </author>
+      </analytic>
+      <monog>
+        <title>Journal of Modern Literature</title>
+        <date when="1985-3-1"/>
+      </monog>
+    </bibl>
+    <bibl type="article" id="#jstor25486805">
+      <analytic>
+        <title>Wakeful Ad-Venture</title>
+        <author>
+          <persName>
+            <surname>Berger</surname>
+            <forename>Alfred Paul</forename>
+          </persName>
+        </author>
+      </analytic>
+      <monog>
+        <title>James Joyce Quarterly</title>
+        <date when="1969-10-1"/>
+      </monog>
+    </bibl>
+    <bibl type="article" id="#jstor10.2307/1770312">
+      <analytic>
+        <title>Joyce, Wagner, and the Wandering Jew</title>
+        <author>
+          <persName>
+            <surname>Martin</surname>
+            <forename>Timothy P.</forename>
+          </persName>
+        </author>
+      </analytic>
+      <monog>
+        <title>Comparative Literature</title>
+        <date when="1990-1-1"/>
+      </monog>
+    </bibl>
+    <bibl type="article" id="#jstor40246890">
+      <analytic>
+        <title>The Candlebearer at the "Wake": Bruno's "Candelaio" in Joyce's Book of the Dark</title>
+        <author>
+          <persName>
+            <surname>Moliterno</surname>
+            <forename>Gino</forename>
+          </persName>
+        </author>
+      </analytic>
+      <monog>
+        <title>Comparative Literature Studies</title>
+        <date when="1993-1-1"/>
+      </monog>
+    </bibl>
+    <bibl type="article" id="#jstor30244357">
+      <analytic>
+        <title>The Jew's Text: "Shem the Penman" and "Shaun the Post"</title>
+        <author>
+          <persName>
+            <surname>Linett</surname>
+            <forename>Maren</forename>
+          </persName>
+        </author>
+      </analytic>
+      <monog>
+        <title>James Joyce Quarterly</title>
+        <date when="2008-12-1"/>
+      </monog>
+    </bibl>
+    <bibl type="article" id="#jstor25485118">
+      <analytic>
+        <title>Is He Still Dead?</title>
+        <author>
+          <persName>
+            <surname>Freed</surname>
+            <forename>Donald</forename>
+          </persName>
+        </author>
+      </analytic>
+      <monog>
+        <title>James Joyce Quarterly</title>
+        <date when="1990-10-1"/>
+      </monog>
+    </bibl>
+    <bibl type="article" id="#jstor25486679">
+      <analytic>
+        <title>An Old-Irish Model for "Ulysses"</title>
+        <author>
+          <persName>
+            <surname>Sultan</surname>
+            <forename>Stanley</forename>
+          </persName>
+        </author>
+      </analytic>
+      <monog>
+        <title>James Joyce Quarterly</title>
+        <date when="1968-1-1"/>
+      </monog>
+    </bibl>
+    <bibl type="article" id="#jstor25487149">
+      <analytic>
+        <title>Farcical Themes and Forms in "Finnegans Wake"</title>
+        <author>
+          <persName>
+            <surname>Hayman</surname>
+            <forename>David</forename>
+          </persName>
+        </author>
+      </analytic>
+      <monog>
+        <title>James Joyce Quarterly</title>
+        <date when="1974-7-1"/>
+      </monog>
+    </bibl>
+    <bibl type="article" id="#jstor41389793">
+      <analytic>
+        <title>The Keys To: Jacques Derrida as a Proteus Unbound</title>
+        <author>
+          <persName>
+            <surname>Cixous</surname>
+            <forename>Hélène</forename>
+          </persName>
+        </author>
+      </analytic>
+      <monog>
+        <title>Discourse</title>
+        <date when="2008-1-1"/>
+      </monog>
+    </bibl>
+    <bibl type="article" id="#jstor25484842">
+      <analytic>
+        <title>The Last Chapter of "Finnegans Wake": Stephen Finds His Mother</title>
+        <author>
+          <persName>
+            <surname>Norris</surname>
+            <forename>Margot</forename>
+          </persName>
+        </author>
+      </analytic>
+      <monog>
+        <title>James Joyce Quarterly</title>
+        <date when="1987-10-1"/>
+      </monog>
+    </bibl>
+    <bibl type="article" id="#jstor25474091">
+      <analytic>
+        <title>"Variability in Every Tongue": Joyce and the Darwinian Narrative</title>
+        <author>
+          <persName>
+            <surname>Bowers</surname>
+            <forename>Paul</forename>
+          </persName>
+        </author>
+      </analytic>
+      <monog>
+        <title>James Joyce Quarterly</title>
+        <date when="1999-7-1"/>
+      </monog>
+    </bibl>
+    <bibl type="article" id="#jstor26634579">
+      <analytic>
+        <title>In Memoriam</title>
+        <author>
+          <persName>
+            <surname>Smith</surname>
+            <forename>Bob</forename>
+          </persName>
+        </author>
+      </analytic>
+      <monog>
+        <title>James Joyce Literary Supplement</title>
+        <date when="1994-10-1"/>
+      </monog>
+    </bibl>
+    <bibl type="article" id="#jstor26288806">
+      <analytic>
+        <title>Love in Joyce</title>
+        <author>
+          <persName>
+            <surname>BORG</surname>
+            <forename>RUBEN</forename>
+          </persName>
+        </author>
+      </analytic>
+      <monog>
+        <title>Joyce Studies Annual</title>
+        <date when="2014-1-1"/>
+      </monog>
+    </bibl>
+    <bibl type="article" id="#jstor26283641">
+      <analytic>
+        <title>The Hieroglyphs of Engined Egypsians: Machines, Media, and Modes of Communication in "Finnegans Wake"</title>
+        <author>
+          <persName>
+            <surname>THEALL</surname>
+            <forename>DONALD F.</forename>
+          </persName>
+        </author>
+      </analytic>
+      <monog>
+        <title>Joyce Studies Annual</title>
+        <date when="1991-7-1"/>
+      </monog>
+    </bibl>
+    <bibl type="article" id="#jstor44873794">
+      <analytic>
+        <title>METAPHORS OF THE QUEST IN "FINNEGANS WAKE"</title>
+        <author>
+          <persName>
+            <surname>MILESI</surname>
+            <forename>LAURENT</forename>
+          </persName>
+        </author>
+      </analytic>
+      <monog>
+        <title>European Joyce Studies</title>
+        <date when="1990-1-1"/>
+      </monog>
+    </bibl>
+    <bibl type="article" id="#jstor44870953">
+      <analytic>
+        <title>DAUGHTER'S TIME: ISSY'S PROBLEMATICS OF TIME IN "FINNEGANS WAKE"</title>
+        <author>
+          <persName>
+            <surname>MCDOWELL</surname>
+            <forename>LESLEY</forename>
+          </persName>
+        </author>
+      </analytic>
+      <monog>
+        <title>European Joyce Studies</title>
+        <date when="1994-1-1"/>
+      </monog>
+    </bibl>
+    <bibl type="article" id="#jstor26278685">
+      <analytic>
+        <title>THE TWINS THAT TICK HOMO VULGARIS–A STUDY OF SHEM AND SHAUN</title>
+        <author>
+          <persName>
+            <surname>O'Brien</surname>
+            <forename>Darcy</forename>
+          </persName>
+        </author>
+      </analytic>
+      <monog>
+        <title>Modern Fiction Studies</title>
+        <date when="1966-7-1"/>
+      </monog>
+    </bibl>
+    <bibl type="article" id="#jstor24598695">
+      <analytic>
+        <title>ALP's Polyvocal Testimony in III.3: A Collaborative Interpretation</title>
+        <author>
+          <persName>
+            <surname>Devlin</surname>
+            <forename>Kimberly J.</forename>
+          </persName>
+        </author>
+      </analytic>
+      <monog>
+        <title>James Joyce Quarterly</title>
+        <date when="2011-10-1"/>
+      </monog>
+    </bibl>
+    <bibl type="article" id="#jstor26283640">
+      <analytic>
+        <title>White Horse, Dark Horse: Joyce's Allhorse of Another Color</title>
+        <author>
+          <persName>
+            <surname>CHENG</surname>
+            <forename>VINCENT J.</forename>
+          </persName>
+        </author>
+      </analytic>
+      <monog>
+        <title>Joyce Studies Annual</title>
+        <date when="1991-7-1"/>
+      </monog>
+    </bibl>
+    <bibl type="article" id="#jstor44871392">
+      <analytic>
+        <title>"behush the bush to. Whish!": Silence, Loss, and "Finnegans Wake"</title>
+        <author>
+          <persName>
+            <surname>O'Callaghan</surname>
+            <forename>Katherine</forename>
+          </persName>
+        </author>
+      </analytic>
+      <monog>
+        <title>European Joyce Studies</title>
+        <date when="2016-1-1"/>
+      </monog>
+    </bibl>
+    <bibl type="article" id="#jstor29748749">
+      <analytic>
+        <title>IMPRESIÓNS ENCOL DO "FINNEGANS WAKE" DE JAMES JOYCE</title>
+        <author>
+          <persName>
+            <surname>RODRIGUEZ</surname>
+            <forename>LEOPOLDO R. L.</forename>
+          </persName>
+        </author>
+      </analytic>
+      <monog>
+        <title>Grial</title>
+        <date when="1969-10-1"/>
+      </monog>
+    </bibl>
+    <bibl type="article" id="#jstor40899986">
+      <analytic>
+        <title>James Joyce un individu dans le monde</title>
+        <author>
+          <persName>
+            <surname>Levin</surname>
+            <forename>Harry</forename>
+          </persName>
+        </author>
+      </analytic>
+      <monog>
+        <title>Revue de Métaphysique et de Morale</title>
+        <date when="1956-7-1"/>
+      </monog>
+    </bibl>
+    <bibl type="article" id="#jstor27820944">
+      <analytic>
+        <title></title>
+        <author>
+          <persName>
+            <surname>Roughley</surname>
+            <forename>Alan</forename>
+          </persName>
+        </author>
+      </analytic>
+      <monog>
+        <title>James Joyce Quarterly</title>
+        <date when="2008-10-1"/>
+      </monog>
+    </bibl>
+    <bibl type="article" id="#jstor44871388">
+      <analytic>
+        <title>Babababblin' Drolleries and Multilingual Phonologies: Developing a Multilingual Ethics of Embodiment through "Finnegans Wake"</title>
+        <author>
+          <persName>
+            <surname>Alexandrova</surname>
+            <forename>Boriana</forename>
+          </persName>
+        </author>
+      </analytic>
+      <monog>
+        <title>European Joyce Studies</title>
+        <date when="2016-1-1"/>
+      </monog>
+    </bibl>
+    <bibl type="article" id="#jstor44871047">
+      <analytic>
+        <title>HALLOW'D CHRONICKLES AND EXPLOYTES OF KING RODERICKE O'CONOR FROM JOYCE'S EARLIEST DRAFTES TO THE END OF CAUSAL HISTORIE</title>
+        <author>
+          <persName>
+            <surname>DEPPMAN</surname>
+            <forename>JED</forename>
+          </persName>
+        </author>
+      </analytic>
+      <monog>
+        <title>European Joyce Studies</title>
+        <date when="1995-1-1"/>
+      </monog>
+    </bibl>
+    <bibl type="article" id="#jstor44162853">
+      <analytic>
+        <title>A Prompt from a Primer: A Sociolinguistic Approach to "Finnegans Wake"</title>
+        <author>
+          <persName>
+            <surname>Kelly</surname>
+            <forename>Michelle McSwiggan</forename>
+          </persName>
+        </author>
+      </analytic>
+      <monog>
+        <title>James Joyce Quarterly</title>
+        <date when="2014-7-1"/>
+      </monog>
+    </bibl>
+    <bibl type="article" id="#jstor26288830">
+      <analytic>
+        <title>Noble Rot</title>
+        <author>
+          <persName>
+            <surname>GORDON</surname>
+            <forename>JOHN</forename>
+          </persName>
+        </author>
+      </analytic>
+      <monog>
+        <title>Joyce Studies Annual</title>
+        <date when="2015-1-1"/>
+      </monog>
+    </bibl>
+    <bibl type="article" id="#jstor43041333">
+      <analytic>
+        <title>Incommunicado</title>
+        <author>
+          <persName>
+            <surname>Cox</surname>
+            <forename>Paul Alan</forename>
+          </persName>
+        </author>
+      </analytic>
+      <monog>
+        <title>Brigham Young University Studies</title>
+        <date when="1988-1-1"/>
+      </monog>
+    </bibl>
+    <bibl type="article" id="#jstor27820959">
+      <analytic>
+        <title>An Obsession with Plenitude: The Aesthetics of Hoarding in Finnegans Wake</title>
+        <author>
+          <persName>
+            <surname>Moran</surname>
+            <forename>Patrick W.</forename>
+          </persName>
+        </author>
+      </analytic>
+      <monog>
+        <title>James Joyce Quarterly</title>
+        <date when="2009-1-1"/>
+      </monog>
+    </bibl>
+    <bibl type="article" id="#jstor26283672">
+      <analytic>
+        <title>The Anti-Schematics of "Finnegans Wake"</title>
+        <author>
+          <persName>
+            <surname>BENSTOCK</surname>
+            <forename>BERNARD</forename>
+          </persName>
+        </author>
+      </analytic>
+      <monog>
+        <title>Joyce Studies Annual</title>
+        <date when="1990-7-1"/>
+      </monog>
+    </bibl>
+    <bibl type="article" id="#jstor10.2307/462579">
+      <analytic>
+        <title>"See Ourselves as Others See Us": Joyce's Look at the Eye of the Other</title>
+        <author>
+          <persName>
+            <surname>Devlin</surname>
+            <forename>Kimberly J.</forename>
+          </persName>
+        </author>
+      </analytic>
+      <monog>
+        <title>PMLA</title>
+        <date when="1989-10-1"/>
+      </monog>
+    </bibl>
+    <bibl type="article" id="#jstor4333899">
+      <analytic>
+        <title>The Backgrounds of "The Dead"</title>
+        <author>
+          <persName>
+            <surname>Ellmann</surname>
+            <forename>Richard</forename>
+          </persName>
+        </author>
+      </analytic>
+      <monog>
+        <title>The Kenyon Review</title>
+        <date when="1958-10-1"/>
+      </monog>
+    </bibl>
+    <bibl type="article" id="#jstor24598593">
+      <analytic>
+        <title></title>
+        <author>
+          <persName>
+            <surname>Senn</surname>
+            <forename>Fritz</forename>
+          </persName>
+        </author>
+      </analytic>
+      <monog>
+        <title>James Joyce Quarterly</title>
+        <date when="2013-4-1"/>
+      </monog>
+    </bibl>
+    <bibl type="article" id="#jstor3831497">
+      <analytic>
+        <title>James Joyce East and Middle East: Literary Resonances of Judaism, Egyptology, and Indian Myth</title>
+        <author>
+          <persName>
+            <surname>Henke</surname>
+            <forename>Suzette</forename>
+          </persName>
+        </author>
+      </analytic>
+      <monog>
+        <title>Journal of Modern Literature</title>
+        <date when="1986-7-1"/>
+      </monog>
+    </bibl>
+    <bibl type="article" id="#jstor44871044">
+      <analytic>
+        <title>WILDE THING: CONCERNING THE ECCENTRICITIES OF A FIGURE OF DECADENCE IN "FINNEGANS WAKE"</title>
+        <author>
+          <persName>
+            <surname>SLOTE</surname>
+            <forename>SAM</forename>
+          </persName>
+        </author>
+      </analytic>
+      <monog>
+        <title>European Joyce Studies</title>
+        <date when="1995-1-1"/>
+      </monog>
+    </bibl>
+    <bibl type="article" id="#jstor10.2307/3684184">
+      <analytic>
+        <title>On Censorship: Staying Power</title>
+        <author>
+          <persName>
+            <surname>Lydon</surname>
+            <forename>Mary</forename>
+          </persName>
+        </author>
+      </analytic>
+      <monog>
+        <title>SubStance</title>
+        <date when="1982-1-1"/>
+      </monog>
+    </bibl>
+    <bibl type="article" id="#jstor40206413">
+      <analytic>
+        <title></title>
+        <author>
+          <persName>
+            <surname>Stern</surname>
+            <forename>Laurent</forename>
+          </persName>
+        </author>
+      </analytic>
+      <monog>
+        <title>The Journal of Aesthetics and Art Criticism</title>
+        <date when="2009-4-1"/>
+      </monog>
+    </bibl>
+    <bibl type="article" id="#jstor26635176">
+      <analytic>
+        <title>Wake Up Little Sosie Sesthers!</title>
+        <author>
+          <persName>
+            <surname>DRISCOLL</surname>
+            <forename>CATHERINE</forename>
+          </persName>
+        </author>
+      </analytic>
+      <monog>
+        <title>James Joyce Literary Supplement</title>
+        <date when="1997-4-1"/>
+      </monog>
+    </bibl>
+    <bibl type="article" id="#jstor25476065">
+      <analytic>
+        <title>Noodynaady's Actual Ingrate Tootle</title>
+        <author>
+          <persName>
+            <surname>Wallace</surname>
+            <forename>James D.</forename>
+          </persName>
+        </author>
+      </analytic>
+      <monog>
+        <title>James Joyce Quarterly</title>
+        <date when="1977-4-1"/>
+      </monog>
+    </bibl>
+    <bibl type="article" id="#jstor44871372">
+      <analytic>
+        <title>"(HIC SUNT LENNONES!)": Reading and Misreading the "Wake's" "Signs of Suspicion"</title>
+        <author>
+          <persName>
+            <surname>Fagan</surname>
+            <forename>Paul</forename>
+          </persName>
+        </author>
+      </analytic>
+      <monog>
+        <title>European Joyce Studies</title>
+        <date when="2014-1-1"/>
+      </monog>
+    </bibl>
+    <bibl type="article" id="#jstor25477071">
+      <analytic>
+        <title>Phoenix Park in Finnegans Wake</title>
+        <author>
+          <persName>
+            <surname>Weir</surname>
+            <forename>Lorraine</forename>
+          </persName>
+        </author>
+      </analytic>
+      <monog>
+        <title>Irish University Review</title>
+        <date when="1975-10-1"/>
+      </monog>
+    </bibl>
+    <bibl type="article" id="#jstor30244720">
+      <analytic>
+        <title>The Resurrection of Being in the Ricorso of "Finnegans Wake"</title>
+        <author>
+          <persName>
+            <surname>Franke</surname>
+            <forename>Damon</forename>
+          </persName>
+        </author>
+      </analytic>
+      <monog>
+        <title>James Joyce Quarterly</title>
+        <date when="2007-10-1"/>
+      </monog>
+    </bibl>
+    <bibl type="article" id="#jstor10.2307/441652">
+      <analytic>
+        <title>The Strength and Sorrow of Young Stephen: Toward a Reading of the Dialectic of Harmony and Dissonance in Joyce's Portrait</title>
+        <author>
+          <persName>
+            <surname>McDonald</surname>
+            <forename>Michael Bruce</forename>
+          </persName>
+        </author>
+      </analytic>
+      <monog>
+        <title>Twentieth Century Literature</title>
+        <date when="1991-12-1"/>
+      </monog>
+    </bibl>
+    <bibl type="article" id="#jstorjmodelite.34.2.154">
+      <analytic>
+        <title>Waking Europa: Joyce, Ferrero and the Metamorphosis of Irish History</title>
+        <author>
+          <persName>
+            <surname>Pappalardo</surname>
+            <forename>Salvatore</forename>
+          </persName>
+        </author>
+      </analytic>
+      <monog>
+        <title>jml: Journal of Modern Literature</title>
+        <date when="2011-01-"/>
+      </monog>
+    </bibl>
+    <bibl type="article" id="#jstor4335680">
+      <analytic>
+        <title>The Defeated Generation</title>
+        <author>
+          <persName>
+            <surname>Carruth</surname>
+            <forename>Hayden</forename>
+          </persName>
+        </author>
+      </analytic>
+      <monog>
+        <title>The Kenyon Review</title>
+        <date when="1986-1-1"/>
+      </monog>
+    </bibl>
+    <bibl type="article" id="#jstor90011712">
+      <analytic>
+        <title>Love, Infidelity, and Postcards</title>
+        <author>
+          <persName>
+            <surname>ABBLITT</surname>
+            <forename>STEPHEN</forename>
+          </persName>
+        </author>
+      </analytic>
+      <monog>
+        <title>Mosaic: An Interdisciplinary Critical Journal</title>
+        <date when="2017-9-1"/>
+      </monog>
+    </bibl>
+    <bibl type="article" id="#jstor25571050">
+      <analytic>
+        <title>Possible Worlds Theory and the Fantasy Universe of "Finnegans Wake"</title>
+        <author>
+          <persName>
+            <surname>Norris</surname>
+            <forename>Margot</forename>
+          </persName>
+        </author>
+      </analytic>
+      <monog>
+        <title>James Joyce Quarterly</title>
+        <date when="2007-4-1"/>
+      </monog>
+    </bibl>
+    <bibl type="article" id="#jstor25486972">
+      <analytic>
+        <title>Giordano Bruno and "Finnegans Wake": A New Look at Shaun's Objection to the "Nolanus Theory"</title>
+        <author>
+          <persName>
+            <surname>Koch</surname>
+            <forename>Ronald J.</forename>
+          </persName>
+        </author>
+      </analytic>
+      <monog>
+        <title>James Joyce Quarterly</title>
+        <date when="1972-12-1"/>
+      </monog>
+    </bibl>
+    <bibl type="article" id="#jstor29531344">
+      <analytic>
+        <title>JOYCE AND THE EMPIRE: SOME THOUGHTS ON "FINNEGANS WAKE"</title>
+        <author>
+          <persName>
+            <surname>SHERWOOD</surname>
+            <forename>JOHN C.</forename>
+          </persName>
+        </author>
+      </analytic>
+      <monog>
+        <title>Studies in the Novel</title>
+        <date when="1969-10-1"/>
+      </monog>
+    </bibl>
+    <bibl type="article" id="#jstor26283671">
+      <analytic>
+        <title>The Politics of Childhood in "The Mime of Mick, Nick, and the Maggies"</title>
+        <author>
+          <persName>
+            <surname>NORRIS</surname>
+            <forename>MARGOT</forename>
+          </persName>
+        </author>
+      </analytic>
+      <monog>
+        <title>Joyce Studies Annual</title>
+        <date when="1990-7-1"/>
+      </monog>
+    </bibl>
+    <bibl type="article" id="#jstor">
+      <analytic>
+        <title></title>
+        <author>
+          <persName>
+            <surname></surname>
+            <forename></forename>
+          </persName>
+        </author>
+      </analytic>
+      <monog>
+        <title></title>
+        <date when="--"/>
+      </monog>
+    </bibl>
+    <bibl type="article" id="#jstor44871323">
+      <analytic>
+        <title>NON SERVIAM NON SEQUITUR: JOYCE'S "SEQUENTIALITY OF IMPROBABLE POSSIBLES"</title>
+        <author>
+          <persName>
+            <surname>CONLEY</surname>
+            <forename>TIM</forename>
+          </persName>
+        </author>
+      </analytic>
+      <monog>
+        <title>European Joyce Studies</title>
+        <date when="2011-1-1"/>
+      </monog>
+    </bibl>
+    <bibl type="article" id="#jstor44871039">
+      <analytic>
+        <title>GENETIC CRITICISM AND JOYCE: AN INTRODUCTION</title>
+        <author>
+          <persName>
+            <surname>HAYMAN</surname>
+            <forename>DAVID</forename>
+          </persName>
+        </author>
+      </analytic>
+      <monog>
+        <title>European Joyce Studies</title>
+        <date when="1995-1-1"/>
+      </monog>
+    </bibl>
+    <bibl type="article" id="#jstor25486587">
+      <analytic>
+        <title>Interpreting Finnegans Wake: A Half-Way House</title>
+        <author>
+          <persName>
+            <surname>Epstein</surname>
+            <forename>E. L.</forename>
+          </persName>
+        </author>
+      </analytic>
+      <monog>
+        <title>James Joyce Quarterly</title>
+        <date when="1966-7-1"/>
+      </monog>
+    </bibl>
+    <bibl type="article" id="#jstor44871411">
+      <analytic>
+        <title>James Joyce and Rudyard Kipling: Genesis and Memory, Versions and Inversions</title>
+        <author>
+          <persName>
+            <surname>Fordham</surname>
+            <forename>Finn</forename>
+          </persName>
+        </author>
+      </analytic>
+      <monog>
+        <title>European Joyce Studies</title>
+        <date when="2016-1-1"/>
+      </monog>
+    </bibl>
+    <bibl type="article" id="#jstor25476066">
+      <analytic>
+        <title>Wilde at the "Wake"</title>
+        <author>
+          <persName>
+            <surname>Walton</surname>
+            <forename>Franklin</forename>
+          </persName>
+        </author>
+      </analytic>
+      <monog>
+        <title>James Joyce Quarterly</title>
+        <date when="1977-4-1"/>
+      </monog>
+    </bibl>
+    <bibl type="article" id="#jstor4207493">
+      <analytic>
+        <title> лƀпогласъ иже сѪше[unrepresentable symbol]витъ: James Joyce's Slavonic Optophones </title>
+        <author>
+          <persName>
+            <surname>Leeming</surname>
+            <forename>H.</forename>
+          </persName>
+        </author>
+      </analytic>
+      <monog>
+        <title>The Slavonic and East European Review</title>
+        <date when="1977-7-1"/>
+      </monog>
+    </bibl>
+    <bibl type="article" id="#jstor25477706">
+      <analytic>
+        <title>"Finnegan's Wake" III, i: A Portrait of John McCormack</title>
+        <author>
+          <persName>
+            <surname>Scarry</surname>
+            <forename>John</forename>
+          </persName>
+        </author>
+      </analytic>
+      <monog>
+        <title>Irish University Review</title>
+        <date when="1973-10-1"/>
+      </monog>
+    </bibl>
+    <bibl type="article" id="#jstor44871367">
+      <analytic>
+        <title>ESPACEMENT, THE FINAL FRONTIER</title>
+        <author>
+          <persName>
+            <surname>Slote</surname>
+            <forename>Sam</forename>
+          </persName>
+        </author>
+      </analytic>
+      <monog>
+        <title>European Joyce Studies</title>
+        <date when="2014-1-1"/>
+      </monog>
+    </bibl>
+    <bibl type="article" id="#jstor3831360">
+      <analytic>
+        <title>Panangelic Voices in "Finnegans Wake"</title>
+        <author>
+          <persName>
+            <surname>Beckman</surname>
+            <forename>Richard</forename>
+          </persName>
+        </author>
+      </analytic>
+      <monog>
+        <title>Journal of Modern Literature</title>
+        <date when="1991-4-1"/>
+      </monog>
+    </bibl>
+    <bibl type="article" id="#jstor30059459">
+      <analytic>
+        <title>A Setdown Secular Phoenish: The Finn of "Finnegan's Wake"</title>
+        <author>
+          <persName>
+            <surname>Benstock</surname>
+            <forename>Bernard</forename>
+          </persName>
+        </author>
+      </analytic>
+      <monog>
+        <title>The Crane Bag</title>
+        <date when="1978-1-1"/>
+      </monog>
+    </bibl>
+    <bibl type="article" id="#jstor26285147">
+      <analytic>
+        <title>Waking to Obscurity: "Finnegans Wake" and John of the Cross's Dark Night</title>
+        <author>
+          <persName>
+            <surname>JAURRETCHE</surname>
+            <forename>COLLEEN</forename>
+          </persName>
+        </author>
+      </analytic>
+      <monog>
+        <title>Joyce Studies Annual</title>
+        <date when="1997-7-1"/>
+      </monog>
+    </bibl>
+    <bibl type="article" id="#jstor25476814">
+      <analytic>
+        <title>Raiding fur Buginners: FW 611.04-613.04</title>
+        <author>
+          <persName>
+            <surname>Gillespie</surname>
+            <forename>Michael Patrick</forename>
+          </persName>
+        </author>
+      </analytic>
+      <monog>
+        <title>James Joyce Quarterly</title>
+        <date when="1987-4-1"/>
+      </monog>
+    </bibl>
+    <bibl type="article" id="#jstor26288839">
+      <analytic>
+        <title>Degeneration, Decadence, and Joyce's Modernist Disability Aesthetics</title>
+        <author>
+          <persName>
+            <surname>QUIRICI</surname>
+            <forename>MARION</forename>
+          </persName>
+        </author>
+      </analytic>
+      <monog>
+        <title>Joyce Studies Annual</title>
+        <date when="2016-1-1"/>
+      </monog>
+    </bibl>
+    <bibl type="article" id="#jstor44871384">
+      <analytic>
+        <title>From Dowel to Tesseract: Joyce and De Stijl from "Cyclops" to "Finnegans Wake"</title>
+        <author>
+          <persName>
+            <surname>Flynn</surname>
+            <forename>Catherine</forename>
+          </persName>
+        </author>
+      </analytic>
+      <monog>
+        <title>European Joyce Studies</title>
+        <date when="2016-1-1"/>
+      </monog>
+    </bibl>
+    <bibl type="article" id="#jstor30100925">
+      <analytic>
+        <title>Along the Liffey Shore</title>
+        <author>
+          <persName>
+            <surname>Lee</surname>
+            <forename>Gerard A.</forename>
+          </persName>
+        </author>
+      </analytic>
+      <monog>
+        <title>Dublin Historical Record</title>
+        <date when="1990-4-1"/>
+      </monog>
+    </bibl>
+    <bibl type="article" id="#jstor44871200">
+      <analytic>
+        <title>MASCULINE STATES AND FEMININE REPUBLICS: "FINNEGANS WAKE" AS HISTORICAL DOCUMENT</title>
+        <author>
+          <persName>
+            <surname>MCGEE</surname>
+            <forename>PATRICK</forename>
+          </persName>
+        </author>
+      </analytic>
+      <monog>
+        <title>European Joyce Studies</title>
+        <date when="1998-1-1"/>
+      </monog>
+    </bibl>
+    <bibl type="article" id="#jstor25476176">
+      <analytic>
+        <title>Nodality and the Infra-Structure of "Finnegans Wake"</title>
+        <author>
+          <persName>
+            <surname>Hayman</surname>
+            <forename>David</forename>
+          </persName>
+        </author>
+      </analytic>
+      <monog>
+        <title>James Joyce Quarterly</title>
+        <date when="1978-10-1"/>
+      </monog>
+    </bibl>
+    <bibl type="article" id="#jstor3831170">
+      <analytic>
+        <title>James Joyce's System of Marginal Markings in the Books of His Personal Library</title>
+        <author>
+          <persName>
+            <surname>Kenny</surname>
+            <forename>Thomas J.</forename>
+          </persName>
+        </author>
+      </analytic>
+      <monog>
+        <title>Journal of Modern Literature</title>
+        <date when="1977-4-1"/>
+      </monog>
+    </bibl>
+    <bibl type="article" id="#jstor25487218">
+      <analytic>
+        <title>A Certain Element of Play in Joyce's Work</title>
+        <author>
+          <persName>
+            <surname>Lauer</surname>
+            <forename>Christopher</forename>
+          </persName>
+        </author>
+      </analytic>
+      <monog>
+        <title>James Joyce Quarterly</title>
+        <date when="1975-7-1"/>
+      </monog>
+    </bibl>
+    <bibl type="article" id="#jstor44873797">
+      <analytic>
+        <title>THE LETTER! THE LITTER! THE DEFILEMENTS OF THE SIGNIFIER IN "FINNEGANS WAKE"</title>
+        <author>
+          <persName>
+            <surname>BERRESSEM</surname>
+            <forename>HANJO</forename>
+          </persName>
+        </author>
+      </analytic>
+      <monog>
+        <title>European Joyce Studies</title>
+        <date when="1990-1-1"/>
+      </monog>
+    </bibl>
+    <bibl type="article" id="#jstor26635938">
+      <analytic>
+        <title>Even Homer Nods, but Not So Comically... or Productively</title>
+        <author>
+          <persName>
+            <surname>Fargnoli</surname>
+            <forename>A. Nicholas</forename>
+          </persName>
+        </author>
+      </analytic>
+      <monog>
+        <title>James Joyce Literary Supplement</title>
+        <date when="2012-10-1"/>
+      </monog>
+    </bibl>
+    <bibl type="article" id="#jstor25476735">
+      <analytic>
+        <title>Woman, the Letter Writer; Man, the Writing Master</title>
+        <author>
+          <persName>
+            <surname>Raynaud</surname>
+            <forename>Claudine</forename>
+          </persName>
+        </author>
+      </analytic>
+      <monog>
+        <title>James Joyce Quarterly</title>
+        <date when="1986-4-1"/>
+      </monog>
+    </bibl>
+    <bibl type="article" id="#jstor3651514">
+      <analytic>
+        <title>iSpace: Printed English after Joyce, Shannon, and Derrida</title>
+        <author>
+          <persName>
+            <surname>Liu</surname>
+            <forename>Lydia H.</forename>
+          </persName>
+        </author>
+      </analytic>
+      <monog>
+        <title>Critical Inquiry</title>
+        <date when="2006-03-"/>
+      </monog>
+    </bibl>
+    <bibl type="article" id="#jstor10.2307/536500">
+      <analytic>
+        <title>Nursery Rhymes in Finnegans Wake</title>
+        <author>
+          <persName>
+            <surname>Worthington</surname>
+            <forename>Mabel P.</forename>
+          </persName>
+        </author>
+      </analytic>
+      <monog>
+        <title>The Journal of American Folklore</title>
+        <date when="1957-1-1"/>
+      </monog>
+    </bibl>
+    <bibl type="article" id="#jstor44871307">
+      <analytic>
+        <title>THE OPPOSITE OF DESPAIR: ST. ANTHONY MEETS ST. PATRICK</title>
+        <author>
+          <persName>
+            <surname>BAINES</surname>
+            <forename>ROBERT</forename>
+          </persName>
+        </author>
+      </analytic>
+      <monog>
+        <title>European Joyce Studies</title>
+        <date when="2011-1-1"/>
+      </monog>
+    </bibl>
+    <bibl type="article" id="#jstor26288776">
+      <analytic>
+        <title>Nuvoletta and the "Dantellising Peaches"</title>
+        <author>
+          <persName>
+            <surname>ROBINSON</surname>
+            <forename>JAMES</forename>
+          </persName>
+        </author>
+      </analytic>
+      <monog>
+        <title>Joyce Studies Annual</title>
+        <date when="2012-1-1"/>
+      </monog>
+    </bibl>
+    <bibl type="article" id="#jstor24598792">
+      <analytic>
+        <title>An Obsession with Plenitude: The Aesthetics of Hoarding in "Finnegans Wake"</title>
+        <author>
+          <persName>
+            <surname>Moran</surname>
+            <forename>Patrick W.</forename>
+          </persName>
+        </author>
+      </analytic>
+      <monog>
+        <title>James Joyce Quarterly</title>
+        <date when="2012-10-1"/>
+      </monog>
+    </bibl>
+    <bibl type="article" id="#jstor25485003">
+      <analytic>
+        <title>Finnegans Awake: The Dream of Interpretation</title>
+        <author>
+          <persName>
+            <surname>Attridge</surname>
+            <forename>Derek</forename>
+          </persName>
+        </author>
+      </analytic>
+      <monog>
+        <title>James Joyce Quarterly</title>
+        <date when="1989-10-1"/>
+      </monog>
+    </bibl>
+    <bibl type="article" id="#jstor10.2307/3040054">
+      <analytic>
+        <title></title>
+        <author>
+          <persName>
+            <surname>Jarrell</surname>
+            <forename>Mackie</forename>
+          </persName>
+        </author>
+      </analytic>
+      <monog>
+        <title>Modern Language Notes</title>
+        <date when="1961-11-1"/>
+      </monog>
+    </bibl>
+    <bibl type="article" id="#jstor25486596">
+      <analytic>
+        <title>Addenda: More Food for 'The Gastronome's Finnegans Wake</title>
+        <author>
+          <persName>
+            <surname>Spielberg</surname>
+            <forename>Peter</forename>
+          </persName>
+        </author>
+      </analytic>
+      <monog>
+        <title>James Joyce Quarterly</title>
+        <date when="1966-7-1"/>
+      </monog>
+    </bibl>
+    <bibl type="article" id="#jstor44871374">
+      <analytic>
+        <title>Diacritic Aspirations and Servile Letters: Alphabets and National Identities in Joyce's Europe</title>
+        <author>
+          <persName>
+            <surname>Mecsnóber</surname>
+            <forename>Tekla</forename>
+          </persName>
+        </author>
+      </analytic>
+      <monog>
+        <title>European Joyce Studies</title>
+        <date when="2014-1-1"/>
+      </monog>
+    </bibl>
+    <bibl type="article" id="#jstor10.2307/2872551">
+      <analytic>
+        <title>The Consequence of Deconstruction: A Technical Perspective of Joyce's Finnegans Wake</title>
+        <author>
+          <persName>
+            <surname>Norris</surname>
+            <forename>Margot C.</forename>
+          </persName>
+        </author>
+      </analytic>
+      <monog>
+        <title>ELH</title>
+        <date when="1974-4-1"/>
+      </monog>
+    </bibl>
+    <bibl type="article" id="#jstor25487183">
+      <analytic>
+        <title>Joyce, Stoom, King Mark: "Glorious Name of Irish Goose"</title>
+        <author>
+          <persName>
+            <surname>Day</surname>
+            <forename>Robert Adams</forename>
+          </persName>
+        </author>
+      </analytic>
+      <monog>
+        <title>James Joyce Quarterly</title>
+        <date when="1975-4-1"/>
+      </monog>
+    </bibl>
+    <bibl type="article" id="#jstor20776040">
+      <analytic>
+        <title>SHAKHISBEARD AT FINNEGANS WAKE</title>
+        <author>
+          <persName>
+            <surname>Peery</surname>
+            <forename>William</forename>
+          </persName>
+        </author>
+      </analytic>
+      <monog>
+        <title>The University of Texas Studies in English</title>
+        <date when="1951-1-1"/>
+      </monog>
+    </bibl>
+    <bibl type="article" id="#jstor10.2307/4610703">
+      <analytic>
+        <title>"Araby" and the Writings of James Joyce</title>
+        <author>
+          <persName>
+            <surname>Stone</surname>
+            <forename>Harry</forename>
+          </persName>
+        </author>
+      </analytic>
+      <monog>
+        <title>The Antioch Review</title>
+        <date when="1965-10-1"/>
+      </monog>
+    </bibl>
+    <bibl type="article" id="#jstor24598778">
+      <analytic>
+        <title>Finnegans Awake: The Dream of Interpretation</title>
+        <author>
+          <persName>
+            <surname>Attridge</surname>
+            <forename>Derek</forename>
+          </persName>
+        </author>
+      </analytic>
+      <monog>
+        <title>James Joyce Quarterly</title>
+        <date when="2012-10-1"/>
+      </monog>
+    </bibl>
+    <bibl type="article" id="#jstor25112401">
+      <analytic>
+        <title>Finnegans Wake, Colonial Nonsense, and Postcolonial History</title>
+        <author>
+          <persName>
+            <surname>Mays</surname>
+            <forename>Michael</forename>
+          </persName>
+        </author>
+      </analytic>
+      <monog>
+        <title>College Literature</title>
+        <date when="1998-10-1"/>
+      </monog>
+    </bibl>
+    <bibl type="article" id="#jstor25473840">
+      <analytic>
+        <title>Lilith on the Liffey: Gender, Rebellion, and Anticolonialism in "Finnegans Wake"</title>
+        <author>
+          <persName>
+            <surname>Bormanis</surname>
+            <forename>John</forename>
+          </persName>
+        </author>
+      </analytic>
+      <monog>
+        <title>James Joyce Quarterly</title>
+        <date when="1997-7-1"/>
+      </monog>
+    </bibl>
+    <bibl type="article" id="#jstor10.2307/2871822">
+      <analytic>
+        <title>The Final Apostacy: James Joyce and Finnegans Wake</title>
+        <author>
+          <persName>
+            <surname>Benstock</surname>
+            <forename>Bernard</forename>
+          </persName>
+        </author>
+      </analytic>
+      <monog>
+        <title>ELH</title>
+        <date when="1961-12-1"/>
+      </monog>
+    </bibl>
+    <bibl type="article" id="#jstor44871325">
+      <analytic>
+        <title>AN IMPERFECT "WAKE"</title>
+        <author>
+          <persName>
+            <surname>SLOTE</surname>
+            <forename>SAM</forename>
+          </persName>
+        </author>
+      </analytic>
+      <monog>
+        <title>European Joyce Studies</title>
+        <date when="2011-1-1"/>
+      </monog>
+    </bibl>
+    <bibl type="article" id="#jstor3831076">
+      <analytic>
+        <title>Three Approaches to Life's Robulous Rebus in the Quiz Section of "Finnegans Wake"</title>
+        <author>
+          <persName>
+            <surname>McCarthy</surname>
+            <forename>Patrick A.</forename>
+          </persName>
+        </author>
+      </analytic>
+      <monog>
+        <title>Journal of Modern Literature</title>
+        <date when="1976-9-1"/>
+      </monog>
+    </bibl>
+    <bibl type="article" id="#jstor20078136">
+      <analytic>
+        <title>Vico in Dixie</title>
+        <author>
+          <persName>
+            <surname>Ciancio</surname>
+            <forename>Ralph</forename>
+          </persName>
+        </author>
+      </analytic>
+      <monog>
+        <title>The Southern Literary Journal</title>
+        <date when="1995-10-1"/>
+      </monog>
+    </bibl>
+    <bibl type="article" id="#jstor10.2307/3171026">
+      <analytic>
+        <title>In the Museyroom</title>
+        <author>
+          <persName>
+            <surname>Bloomer</surname>
+            <forename>Jennifer</forename>
+          </persName>
+        </author>
+      </analytic>
+      <monog>
+        <title>Assemblage</title>
+        <date when="1988-2-1"/>
+      </monog>
+    </bibl>
+    <bibl type="article" id="#jstor25478021">
+      <analytic>
+        <title>James Joyce's Sentimentality</title>
+        <author>
+          <persName>
+            <surname>Hart</surname>
+            <forename>Clive</forename>
+          </persName>
+        </author>
+      </analytic>
+      <monog>
+        <title>James Joyce Quarterly</title>
+        <date when="2003-10-1"/>
+      </monog>
+    </bibl>
+    <bibl type="article" id="#jstor42946244">
+      <analytic>
+        <title>The Mutt and Jute Dialogue in Joyce's "Finnegans Wake": Some Gricean Perspectives</title>
+        <author>
+          <persName>
+            <surname>Herman</surname>
+            <forename>David</forename>
+          </persName>
+        </author>
+      </analytic>
+      <monog>
+        <title>Style</title>
+        <date when="1994-7-1"/>
+      </monog>
+    </bibl>
+    <bibl type="article" id="#jstor24598574">
+      <analytic>
+        <title>Literal Darkness: "Finnegans Wake" and the Limits of Print</title>
+        <author>
+          <persName>
+            <surname>Lurz</surname>
+            <forename>John</forename>
+          </persName>
+        </author>
+      </analytic>
+      <monog>
+        <title>James Joyce Quarterly</title>
+        <date when="2013-4-1"/>
+      </monog>
+    </bibl>
+    <bibl type="article" id="#jstor44871103">
+      <analytic>
+        <title>"A quaking sod": Hybridity, Identity and Wandering Irishness</title>
+        <author>
+          <persName>
+            <surname>Rickard</surname>
+            <forename>John</forename>
+          </persName>
+        </author>
+      </analytic>
+      <monog>
+        <title>European Joyce Studies</title>
+        <date when="2001-1-1"/>
+      </monog>
+    </bibl>
+    <bibl type="article" id="#jstor26421743">
+      <analytic>
+        <title>THE ANIMALS OF JAMES JOYCE’S </title>
+        <author>
+          <persName>
+            <surname>Norris</surname>
+            <forename>Margot</forename>
+          </persName>
+        </author>
+      </analytic>
+      <monog>
+        <title>Modern Fiction Studies</title>
+        <date when="2014-10-1"/>
+      </monog>
+    </bibl>
+    <bibl type="article" id="#jstor26283659">
+      <analytic>
+        <title>"Finnegans Wake": The Issue of Issy's Schizophrenia</title>
+        <author>
+          <persName>
+            <surname>McBRIDE</surname>
+            <forename>MARGARET</forename>
+          </persName>
+        </author>
+      </analytic>
+      <monog>
+        <title>Joyce Studies Annual</title>
+        <date when="1996-7-1"/>
+      </monog>
+    </bibl>
+    <bibl type="article" id="#jstor3831701">
+      <analytic>
+        <title>Nations and the Night: Excremental History in James Joyce's "Finnegans Wake" and Djuna Barnes' "Nightwood"</title>
+        <author>
+          <persName>
+            <surname>Whitley</surname>
+            <forename>Catherine</forename>
+          </persName>
+        </author>
+      </analytic>
+      <monog>
+        <title>Journal of Modern Literature</title>
+        <date when="2000-10-1"/>
+      </monog>
+    </bibl>
+    <bibl type="article" id="#jstor10.2307/461052">
+      <analytic>
+        <title>L. Boom as Dreamer in Finnegans Wake</title>
+        <author>
+          <persName>
+            <surname>Benstock</surname>
+            <forename>Bernard</forename>
+          </persName>
+        </author>
+      </analytic>
+      <monog>
+        <title>PMLA</title>
+        <date when="1967-3-1"/>
+      </monog>
+    </bibl>
+    <bibl type="article" id="#jstorantiochreview.71.2.0348">
+      <analytic>
+        <title>“Araby” and the Writings of James Joyce</title>
+        <author>
+          <persName>
+            <surname></surname>
+            <forename></forename>
+          </persName>
+        </author>
+      </analytic>
+      <monog>
+        <title>The Antioch Review</title>
+        <date when="2013-4-1"/>
+      </monog>
+    </bibl>
+  </listBibl>
+  <linkGrp>
+    <link target="string-range(#FW, 1220539, 1220594) string-range(#jstor25473839, 5567, 5622)"/>
+    <link target="string-range(#FW, 1809363, 1809522) string-range(#jstor10.2307/3847642, 11067, 11180)"/>
+    <link target="string-range(#FW, 696631, 696793) string-range(#jstor25477812, 35232, 35348)"/>
+    <link target="string-range(#FW, 2269376, 2269532) string-range(#jstor40755287, 35419, 35529)"/>
+    <link target="string-range(#FW, 2636788, 2636837) string-range(#jstor40232410, 51392, 51441)"/>
+    <link target="string-range(#FW, 746575, 746630) string-range(#jstor25477866, 30563, 30618)"/>
+    <link target="string-range(#FW, 749719, 749874) string-range(#jstor25477866, 30834, 30943)"/>
+    <link target="string-range(#FW, 718547, 718607) string-range(#jstor23342806, 21646, 21706)"/>
+    <link target="string-range(#FW, 2208428, 2208584) string-range(#jstor23342806, 28893, 29003)"/>
+    <link target="string-range(#FW, 924128, 924285) string-range(#jstor26267276, 34984, 35095)"/>
+    <link target="string-range(#FW, 996484, 996538) string-range(#jstor26267276, 40807, 40861)"/>
+    <link target="string-range(#FW, 996962, 997162) string-range(#jstor26267276, 41064, 41181)"/>
+    <link target="string-range(#FW, 1736115, 1736305) string-range(#jstor25486417, 11454, 11644)"/>
+    <link target="string-range(#FW, 2603907, 2604065) string-range(#jstor25486417, 19628, 19740)"/>
+    <link target="string-range(#FW, 747126, 747285) string-range(#jstor25484963, 20538, 20651)"/>
+    <link target="string-range(#FW, 747718, 747772) string-range(#jstor25484963, 20864, 20918)"/>
+    <link target="string-range(#FW, 747982, 748136) string-range(#jstor25484963, 21000, 21108)"/>
+    <link target="string-range(#FW, 341888, 342052) string-range(#jstor30075986, 3517, 3636)"/>
+    <link target="string-range(#FW, 267405, 267588) string-range(#jstor25473912, 54491, 54592)"/>
+    <link target="string-range(#FW, 878989, 879190) string-range(#jstor26798631, 69347, 69465)"/>
+    <link target="string-range(#FW, 879529, 879582) string-range(#jstor26798631, 69604, 69657)"/>
+    <link target="string-range(#FW, 2636788, 2636837) string-range(#jstor26798631, 76422, 76471)"/>
+    <link target="string-range(#FW, 15316, 15375) string-range(#jstor25089215, 17258, 17317)"/>
+    <link target="string-range(#FW, 1575411, 1575566) string-range(#jstor25089215, 24172, 24281)"/>
+    <link target="string-range(#FW, 267405, 267588) string-range(#jstorcomplitstudies.49.1.0001, 22065, 22166)"/>
+    <link target="string-range(#FW, 1126510, 1126568) string-range(#jstor10.2307/462046, 52096, 52154)"/>
+    <link target="string-range(#FW, 254167, 254220) string-range(#jstor26283623, 49645, 49698)"/>
+    <link target="string-range(#FW, 18856, 18913) string-range(#jstor26288742, 43648, 43705)"/>
+    <link target="string-range(#FW, 559271, 559325) string-range(#jstor10.2307/2872465, 9872, 9926)"/>
+    <link target="string-range(#FW, 25887, 25937) string-range(#jstor26283686, 17288, 17338)"/>
+    <link target="string-range(#FW, 1241444, 1241491) string-range(#jstor25473699, 34625, 34673)"/>
+    <link target="string-range(#FW, 756385, 756439) string-range(#jstor25486603, 29616, 29671)"/>
+    <link target="string-range(#FW, 756723, 756769) string-range(#jstor25486603, 30995, 31041)"/>
+    <link target="string-range(#FW, 112638, 112796) string-range(#jstor25486973, 14284, 14397)"/>
+    <link target="string-range(#FW, 754934, 755195) string-range(#jstor44871092, 28734, 28848)"/>
+    <link target="string-range(#FW, 755820, 756048) string-range(#jstor44871092, 29070, 29187)"/>
+    <link target="string-range(#FW, 756207, 756439) string-range(#jstor44871092, 29198, 29319)"/>
+    <link target="string-range(#FW, 756723, 756775) string-range(#jstor44871092, 29400, 29452)"/>
+    <link target="string-range(#FW, 603620, 603673) string-range(#jstor26283685, 76508, 76561)"/>
+    <link target="string-range(#FW, 45941, 45991) string-range(#jstor25478101, 3557, 3607)"/>
+    <link target="string-range(#FW, 1646895, 1646935) string-range(#jstor25478101, 26426, 26466)"/>
+    <link target="string-range(#FW, 1050955, 1051131) string-range(#jstor26439553, 16795, 16918)"/>
+    <link target="string-range(#FW, 822771, 822824) string-range(#jstor10.2307/1209123, 16248, 16301)"/>
+    <link target="string-range(#FW, 823312, 823463) string-range(#jstor10.2307/1209123, 16559, 16664)"/>
+    <link target="string-range(#FW, 1187869, 1187998) string-range(#jstor26277079, 16573, 16653)"/>
+    <link target="string-range(#FW, 96559, 96608) string-range(#jstor25477892, 4724, 4773)"/>
+    <link target="string-range(#FW, 582324, 582374) string-range(#jstor25477892, 19369, 19419)"/>
+    <link target="string-range(#FW, 1809355, 1809522) string-range(#jstor25477892, 29218, 29339)"/>
+    <link target="string-range(#FW, 1809355, 1809522) string-range(#jstor25476464, 9960, 10081)"/>
+    <link target="string-range(#FW, 878877, 879040) string-range(#jstor25476354, 14667, 14784)"/>
+    <link target="string-range(#FW, 879140, 879358) string-range(#jstor25476354, 14801, 14910)"/>
+    <link target="string-range(#FW, 116568, 116794) string-range(#jstor30076371, 15385, 15504)"/>
+    <link target="string-range(#FW, 56995, 57152) string-range(#jstor26434196, 6418, 6530)"/>
+    <link target="string-range(#FW, 1753456, 1753614) string-range(#jstor25571080, 2474, 2586)"/>
+    <link target="string-range(#FW, 696631, 696793) string-range(#jstor23342954, 25789, 25905)"/>
+    <link target="string-range(#FW, 467994, 468052) string-range(#jstor25477893, 9832, 9890)"/>
+    <link target="string-range(#FW, 1166769, 1166951) string-range(#jstor25477893, 17136, 17265)"/>
+    <link target="string-range(#FW, 503181, 503321) string-range(#jstor44871373, 3869, 3964)"/>
+    <link target="string-range(#FW, 893903, 893956) string-range(#jstor44871373, 19813, 19866)"/>
+    <link target="string-range(#FW, 933717, 933765) string-range(#jstor44871373, 25518, 25566)"/>
+    <link target="string-range(#FW, 713709, 713761) string-range(#jstor25571022, 34771, 34823)"/>
+    <link target="string-range(#FW, 2582055, 2582107) string-range(#jstor25473949, 17037, 17089)"/>
+    <link target="string-range(#FW, 583050, 583097) string-range(#jstor26283004, 27441, 27488)"/>
+    <link target="string-range(#FW, 643453, 643501) string-range(#jstor26283004, 48613, 48661)"/>
+    <link target="string-range(#FW, 800792, 800952) string-range(#jstor43492425, 20378, 20492)"/>
+    <link target="string-range(#FW, 878626, 878783) string-range(#jstor43492425, 39581, 39692)"/>
+    <link target="string-range(#FW, 878877, 879040) string-range(#jstor43492425, 39703, 39820)"/>
+    <link target="string-range(#FW, 879140, 879358) string-range(#jstor43492425, 39838, 39947)"/>
+    <link target="string-range(#FW, 1471318, 1471364) string-range(#jstor44870951, 7532, 7578)"/>
+    <link target="string-range(#FW, 2582055, 2582107) string-range(#jstor44870951, 21570, 21622)"/>
+    <link target="string-range(#FW, 1359496, 1359551) string-range(#jstor26635271, 20055, 20110)"/>
+    <link target="string-range(#FW, 1362423, 1362466) string-range(#jstor26635271, 25178, 25221)"/>
+    <link target="string-range(#FW, 1394210, 1394258) string-range(#jstor26635271, 32950, 32998)"/>
+    <link target="string-range(#FW, 116849, 116899) string-range(#jstor25485100, 1512, 1562)"/>
+    <link target="string-range(#FW, 875449, 875485) string-range(#jstor25474090, 30484, 30520)"/>
+    <link target="string-range(#FW, 759819, 759972) string-range(#jstor25487023, 29808, 29915)"/>
+    <link target="string-range(#FW, 7648, 7709) string-range(#jstor27795925, 3869, 3930)"/>
+    <link target="string-range(#FW, 8952, 9137) string-range(#jstor30076364, 653, 757)"/>
+    <link target="string-range(#FW, 9306, 9466) string-range(#jstor30076364, 838, 954)"/>
+    <link target="string-range(#FW, 878161, 878212) string-range(#jstor25476968, 18546, 18597)"/>
+    <link target="string-range(#FW, 1733874, 1734156) string-range(#jstor25476968, 24451, 24622)"/>
+    <link target="string-range(#FW, 56995, 57152) string-range(#jstor25477800, 2270, 2382)"/>
+    <link target="string-range(#FW, 582324, 582374) string-range(#jstor26288743, 30090, 30141)"/>
+    <link target="string-range(#FW, 2192173, 2192222) string-range(#jstor25485091, 13844, 13893)"/>
+    <link target="string-range(#FW, 2192615, 2192661) string-range(#jstor25485091, 14102, 14148)"/>
+    <link target="string-range(#FW, 371006, 371047) string-range(#jstor25485421, 5970, 6011)"/>
+    <link target="string-range(#FW, 2636788, 2636837) string-range(#jstor26333469, 58182, 58231)"/>
+    <link target="string-range(#FW, 2169377, 2169543) string-range(#jstor10.2307/2873105, 27944, 28064)"/>
+    <link target="string-range(#FW, 66321, 66374) string-range(#jstor30225332, 14010, 14063)"/>
+    <link target="string-range(#FW, 749719, 749874) string-range(#jstor30225332, 19594, 19703)"/>
+    <link target="string-range(#FW, 2364393, 2364443) string-range(#jstor44870950, 35790, 35840)"/>
+    <link target="string-range(#FW, 2471585, 2471732) string-range(#jstor44870950, 44496, 44597)"/>
+    <link target="string-range(#FW, 2636788, 2636837) string-range(#jstor25487052, 6368, 6420)"/>
+    <link target="string-range(#FW, 27612, 27657) string-range(#jstor26279199, 45249, 45294)"/>
+    <link target="string-range(#FW, 373268, 373428) string-range(#jstor26279199, 49292, 49407)"/>
+    <link target="string-range(#FW, 448309, 448469) string-range(#jstor26279199, 50388, 50502)"/>
+    <link target="string-range(#FW, 1809355, 1809522) string-range(#jstor26279199, 58441, 58562)"/>
+    <link target="string-range(#FW, 56995, 57152) string-range(#jstor10.2307/374667, 12610, 12722)"/>
+    <link target="string-range(#FW, 2128141, 2128279) string-range(#jstor26285218, 67860, 67952)"/>
+    <link target="string-range(#FW, 2609752, 2609968) string-range(#jstor10.2307/3847912, 30176, 30309)"/>
+    <link target="string-range(#FW, 2405699, 2405861) string-range(#jstor3831742, 27446, 27562)"/>
+    <link target="string-range(#FW, 7648, 7702) string-range(#jstor24598791, 28436, 28490)"/>
+    <link target="string-range(#FW, 85466, 85627) string-range(#jstor24598791, 35517, 35633)"/>
+    <link target="string-range(#FW, 2582055, 2582107) string-range(#jstor10.2307/25512487, 10044, 10096)"/>
+    <link target="string-range(#FW, 1602733, 1602790) string-range(#jstor26285217, 38441, 38498)"/>
+    <link target="string-range(#FW, 2636788, 2636837) string-range(#jstor24458563, 48773, 48822)"/>
+    <link target="string-range(#FW, 1929273, 1929329) string-range(#jstor26283675, 4427, 4483)"/>
+    <link target="string-range(#FW, 1165897, 1165969) string-range(#jstor30032068, 26635, 26707)"/>
+    <link target="string-range(#FW, 1166769, 1166951) string-range(#jstor30032068, 34246, 34375)"/>
+    <link target="string-range(#FW, 1168477, 1168662) string-range(#jstor30032068, 38143, 38275)"/>
+    <link target="string-range(#FW, 1168860, 1168920) string-range(#jstor30032068, 40657, 40717)"/>
+    <link target="string-range(#FW, 373268, 373428) string-range(#jstor26285215, 23010, 23128)"/>
+    <link target="string-range(#FW, 878877, 879040) string-range(#jstor26285215, 81359, 81476)"/>
+    <link target="string-range(#FW, 879140, 879358) string-range(#jstor26285215, 81493, 81602)"/>
+    <link target="string-range(#FW, 1732782, 1732836) string-range(#jstor44871046, 5237, 5291)"/>
+    <link target="string-range(#FW, 1998184, 1998234) string-range(#jstor44871046, 68482, 68532)"/>
+    <link target="string-range(#FW, 2609752, 2609818) string-range(#jstor25485243, 19205, 19271)"/>
+    <link target="string-range(#FW, 2618332, 2618379) string-range(#jstor25485243, 28309, 28356)"/>
+    <link target="string-range(#FW, 1649402, 1649562) string-range(#jstor27820964, 1741, 1855)"/>
+    <link target="string-range(#FW, 1724381, 1724549) string-range(#jstor1345489, 29938, 30060)"/>
+    <link target="string-range(#FW, 1159144, 1159268) string-range(#jstor10.2307/461804, 22245, 22320)"/>
+    <link target="string-range(#FW, 700398, 700448) string-range(#jstor30224552, 56629, 56679)"/>
+    <link target="string-range(#FW, 749719, 749874) string-range(#jstor30224552, 57637, 57746)"/>
+    <link target="string-range(#FW, 1860709, 1860762) string-range(#jstor30224552, 76130, 76183)"/>
+    <link target="string-range(#FW, 1861796, 1861942) string-range(#jstor30224552, 76647, 76747)"/>
+    <link target="string-range(#FW, 1862362, 1862522) string-range(#jstor30224552, 76946, 77060)"/>
+    <link target="string-range(#FW, 1862580, 1862734) string-range(#jstor30224552, 77072, 77180)"/>
+    <link target="string-range(#FW, 540535, 540579) string-range(#jstor30053270, 20414, 20458)"/>
+    <link target="string-range(#FW, 7648, 7709) string-range(#jstor10.2307/1207825, 11466, 11527)"/>
+    <link target="string-range(#FW, 2098067, 2098122) string-range(#jstor10.2307/1207825, 48096, 48151)"/>
+    <link target="string-range(#FW, 515195, 515245) string-range(#jstor3831140, 49299, 49349)"/>
+    <link target="string-range(#FW, 699015, 699071) string-range(#jstor25486805, 11063, 11119)"/>
+    <link target="string-range(#FW, 1409012, 1409068) string-range(#jstor10.2307/1770312, 53532, 53588)"/>
+    <link target="string-range(#FW, 2366250, 2366421) string-range(#jstor40246890, 33006, 33131)"/>
+    <link target="string-range(#FW, 1809355, 1809522) string-range(#jstor30244357, 16135, 16259)"/>
+    <link target="string-range(#FW, 2636797, 2636837) string-range(#jstor25485118, 38956, 38996)"/>
+    <link target="string-range(#FW, 372845, 372994) string-range(#jstor25486679, 1164, 1268)"/>
+    <link target="string-range(#FW, 585821, 585870) string-range(#jstor25487149, 23833, 23882)"/>
+    <link target="string-range(#FW, 2636788, 2636837) string-range(#jstor41389793, 4594, 4642)"/>
+    <link target="string-range(#FW, 2609752, 2609818) string-range(#jstor25484842, 42208, 42274)"/>
+    <link target="string-range(#FW, 38376, 38425) string-range(#jstor25474091, 30175, 30224)"/>
+    <link target="string-range(#FW, 2635582, 2635624) string-range(#jstor26634579, 18433, 18475)"/>
+    <link target="string-range(#FW, 2636788, 2636837) string-range(#jstor26634579, 19133, 19182)"/>
+    <link target="string-range(#FW, 2269376, 2269532) string-range(#jstor26288806, 39172, 39281)"/>
+    <link target="string-range(#FW, 2269705, 2269855) string-range(#jstor26288806, 39362, 39466)"/>
+    <link target="string-range(#FW, 582324, 582374) string-range(#jstor26283641, 51006, 51056)"/>
+    <link target="string-range(#FW, 87319, 87373) string-range(#jstor44873794, 10529, 10583)"/>
+    <link target="string-range(#FW, 1809355, 1809522) string-range(#jstor44873794, 39981, 40102)"/>
+    <link target="string-range(#FW, 1760470, 1760509) string-range(#jstor44870953, 11753, 11792)"/>
+    <link target="string-range(#FW, 2235697, 2235846) string-range(#jstor44870953, 21800, 21903)"/>
+    <link target="string-range(#FW, 1041015, 1041068) string-range(#jstor26278685, 23319, 23372)"/>
+    <link target="string-range(#FW, 1948781, 1948826) string-range(#jstor26278685, 36450, 36495)"/>
+    <link target="string-range(#FW, 1949457, 1949619) string-range(#jstor26278685, 36869, 36989)"/>
+    <link target="string-range(#FW, 2099151, 2099198) string-range(#jstor24598695, 12311, 12358)"/>
+    <link target="string-range(#FW, 582324, 582374) string-range(#jstor26283640, 50455, 50505)"/>
+    <link target="string-range(#FW, 2636788, 2636837) string-range(#jstor44871392, 1412, 1461)"/>
+    <link target="string-range(#FW, 878877, 879040) string-range(#jstor29748749, 1062, 1180)"/>
+    <link target="string-range(#FW, 879140, 879358) string-range(#jstor29748749, 1198, 1307)"/>
+    <link target="string-range(#FW, 1176939, 1177129) string-range(#jstor40899986, 26388, 26459)"/>
+    <link target="string-range(#FW, 1177707, 1177913) string-range(#jstor40899986, 26568, 26654)"/>
+    <link target="string-range(#FW, 1809355, 1809522) string-range(#jstor27820944, 9219, 9340)"/>
+    <link target="string-range(#FW, 583050, 583097) string-range(#jstor44871388, 10953, 11000)"/>
+    <link target="string-range(#FW, 2583079, 2583124) string-range(#jstor44871047, 43727, 43772)"/>
+    <link target="string-range(#FW, 1165897, 1165969) string-range(#jstor44162853, 37839, 37911)"/>
+    <link target="string-range(#FW, 2618332, 2618379) string-range(#jstor26288830, 965, 1012)"/>
+    <link target="string-range(#FW, 2619147, 2619302) string-range(#jstor26288830, 1352, 1461)"/>
+    <link target="string-range(#FW, 688867, 688921) string-range(#jstor43041333, 6294, 6348)"/>
+    <link target="string-range(#FW, 746575, 746630) string-range(#jstor27820959, 8935, 8990)"/>
+    <link target="string-range(#FW, 747126, 747285) string-range(#jstor27820959, 9256, 9369)"/>
+    <link target="string-range(#FW, 747349, 747511) string-range(#jstor27820959, 9387, 9503)"/>
+    <link target="string-range(#FW, 49317, 49366) string-range(#jstor26283672, 31232, 31281)"/>
+    <link target="string-range(#FW, 15316, 15375) string-range(#jstor10.2307/462579, 23695, 23754)"/>
+    <link target="string-range(#FW, 173167, 173321) string-range(#jstor10.2307/462579, 37042, 37151)"/>
+    <link target="string-range(#FW, 2635582, 2635624) string-range(#jstor4333899, 43043, 43085)"/>
+    <link target="string-range(#FW, 2636788, 2636837) string-range(#jstor4333899, 43746, 43795)"/>
+    <link target="string-range(#FW, 2636788, 2636837) string-range(#jstor24598593, 10944, 10993)"/>
+    <link target="string-range(#FW, 2106172, 2106331) string-range(#jstor3831497, 24379, 24492)"/>
+    <link target="string-range(#FW, 2269376, 2269532) string-range(#jstor44871044, 42307, 42416)"/>
+    <link target="string-range(#FW, 2269705, 2269855) string-range(#jstor44871044, 42497, 42601)"/>
+    <link target="string-range(#FW, 2635582, 2635624) string-range(#jstor10.2307/3684184, 26903, 26945)"/>
+    <link target="string-range(#FW, 2636788, 2636837) string-range(#jstor10.2307/3684184, 27602, 27651)"/>
+    <link target="string-range(#FW, 878877, 879040) string-range(#jstor40206413, 2029, 2146)"/>
+    <link target="string-range(#FW, 879140, 879358) string-range(#jstor40206413, 2163, 2272)"/>
+    <link target="string-range(#FW, 959271, 959432) string-range(#jstor26635176, 23140, 23255)"/>
+    <link target="string-range(#FW, 373268, 373322) string-range(#jstor25476065, 15138, 15192)"/>
+    <link target="string-range(#FW, 117808, 117847) string-range(#jstor44871372, 26691, 26730)"/>
+    <link target="string-range(#FW, 725346, 725395) string-range(#jstor25477071, 23839, 23888)"/>
+    <link target="string-range(#FW, 2567594, 2567758) string-range(#jstor30244720, 34804, 35009)"/>
+    <link target="string-range(#FW, 85466, 85627) string-range(#jstor10.2307/441652, 75026, 75142)"/>
+    <link target="string-range(#FW, 49317, 49366) string-range(#jstorjmodelite.34.2.154, 39002, 39051)"/>
+    <link target="string-range(#FW, 2636788, 2636837) string-range(#jstor4335680, 10224, 10273)"/>
+    <link target="string-range(#FW, 1809355, 1809522) string-range(#jstor90011712, 35597, 35718)"/>
+    <link target="string-range(#FW, 7648, 7702) string-range(#jstor25571050, 28062, 28116)"/>
+    <link target="string-range(#FW, 663982, 664032) string-range(#jstor25486972, 16643, 16693)"/>
+    <link target="string-range(#FW, 1426362, 1426421) string-range(#jstor29531344, 10912, 10971)"/>
+    <link target="string-range(#FW, 888511, 888703) string-range(#jstor26283671, 41418, 41527)"/>
+    <link target="string-range(#FW, 981848, 981896) string-range(#jstor26283671, 83808, 83856)"/>
+    <link target="string-range(#FW, 982104, 982148) string-range(#jstor26283671, 83934, 83978)"/>
+    <link target="string-range(#FW, 2352149, 2352312) string-range(#jstor, 78453, 78571)"/>
+    <link target="string-range(#FW, 2410662, 2410706) string-range(#jstor, 84849, 84894)"/>
+    <link target="string-range(#FW, 514825, 514992) string-range(#jstor44871323, 23765, 23886)"/>
+    <link target="string-range(#FW, 341888, 342052) string-range(#jstor44871039, 894, 1014)"/>
+    <link target="string-range(#FW, 1254647, 1254685) string-range(#jstor25486587, 30626, 30664)"/>
+    <link target="string-range(#FW, 226972, 227022) string-range(#jstor44871411, 36942, 36982)"/>
+    <link target="string-range(#FW, 366312, 366355) string-range(#jstor25476066, 17335, 17378)"/>
+    <link target="string-range(#FW, 373268, 373322) string-range(#jstor25476066, 25148, 25199)"/>
+    <link target="string-range(#FW, 374143, 374196) string-range(#jstor25476066, 25661, 25713)"/>
+    <link target="string-range(#FW, 2269376, 2269532) string-range(#jstor25476066, 30717, 30827)"/>
+    <link target="string-range(#FW, 1436252, 1436413) string-range(#jstor4207493, 26266, 26381)"/>
+    <link target="string-range(#FW, 1447440, 1447595) string-range(#jstor4207493, 29669, 29778)"/>
+    <link target="string-range(#FW, 1453987, 1454180) string-range(#jstor4207493, 37083, 37193)"/>
+    <link target="string-range(#FW, 1466710, 1466753) string-range(#jstor4207493, 37782, 37825)"/>
+    <link target="string-range(#FW, 1753564, 1753717) string-range(#jstor25477706, 6535, 6642)"/>
+    <link target="string-range(#FW, 503181, 503321) string-range(#jstor44871367, 11499, 11593)"/>
+    <link target="string-range(#FW, 1753456, 1753614) string-range(#jstor3831360, 33901, 34013)"/>
+    <link target="string-range(#FW, 293524, 293569) string-range(#jstor30059459, 7423, 7468)"/>
+    <link target="string-range(#FW, 1254647, 1254685) string-range(#jstor26285147, 62362, 62400)"/>
+    <link target="string-range(#FW, 2567594, 2567758) string-range(#jstor25476814, 15275, 15808)"/>
+    <link target="string-range(#FW, 688867, 688921) string-range(#jstor26288839, 30896, 30950)"/>
+    <link target="string-range(#FW, 401053, 401215) string-range(#jstor44871384, 51607, 51723)"/>
+    <link target="string-range(#FW, 878989, 879190) string-range(#jstor30100925, 41198, 41313)"/>
+    <link target="string-range(#FW, 243574, 243625) string-range(#jstor44871200, 14432, 14483)"/>
+    <link target="string-range(#FW, 2412447, 2412495) string-range(#jstor25476176, 28260, 28308)"/>
+    <link target="string-range(#FW, 15846, 15901) string-range(#jstor3831170, 7100, 7154)"/>
+    <link target="string-range(#FW, 713709, 713761) string-range(#jstor25487218, 7920, 7972)"/>
+    <link target="string-range(#FW, 373268, 373428) string-range(#jstor44873797, 21551, 21666)"/>
+    <link target="string-range(#FW, 1056702, 1056761) string-range(#jstor26635938, 13612, 13671)"/>
+    <link target="string-range(#FW, 1166769, 1166951) string-range(#jstor25476735, 48429, 48558)"/>
+    <link target="string-range(#FW, 503181, 503321) string-range(#jstor3651514, 25865, 25959)"/>
+    <link target="string-range(#FW, 540535, 540579) string-range(#jstor10.2307/536500, 37813, 37857)"/>
+    <link target="string-range(#FW, 2567594, 2567758) string-range(#jstor44871307, 42005, 42123)"/>
+    <link target="string-range(#FW, 643453, 643501) string-range(#jstor26288776, 20441, 20489)"/>
+    <link target="string-range(#FW, 746575, 746630) string-range(#jstor24598792, 8967, 9022)"/>
+    <link target="string-range(#FW, 747126, 747285) string-range(#jstor24598792, 9288, 9401)"/>
+    <link target="string-range(#FW, 747349, 747511) string-range(#jstor24598792, 9419, 9535)"/>
+    <link target="string-range(#FW, 582324, 582374) string-range(#jstor25485003, 11894, 11944)"/>
+    <link target="string-range(#FW, 812023, 812183) string-range(#jstor10.2307/3040054, 7736, 7850)"/>
+    <link target="string-range(#FW, 493021, 493135) string-range(#jstor25486596, 218, 286)"/>
+    <link target="string-range(#FW, 503181, 503321) string-range(#jstor44871374, 42344, 42438)"/>
+    <link target="string-range(#FW, 747349, 747511) string-range(#jstor10.2307/2872551, 32284, 32400)"/>
+    <link target="string-range(#FW, 1734286, 1734545) string-range(#jstor25487183, 83456, 83604)"/>
+    <link target="string-range(#FW, 1601918, 1601973) string-range(#jstor20776040, 18919, 18974)"/>
+    <link target="string-range(#FW, 1865291, 1865452) string-range(#jstor10.2307/4610703, 75815, 75930)"/>
+    <link target="string-range(#FW, 582324, 582374) string-range(#jstor24598778, 12165, 12215)"/>
+    <link target="string-range(#FW, 371006, 371047) string-range(#jstor25112401, 14155, 14196)"/>
+    <link target="string-range(#FW, 373268, 373428) string-range(#jstor25112401, 14484, 14599)"/>
+    <link target="string-range(#FW, 133525, 133567) string-range(#jstor25473840, 12157, 12199)"/>
+    <link target="string-range(#FW, 759819, 759972) string-range(#jstor10.2307/2871822, 27152, 27259)"/>
+    <link target="string-range(#FW, 1685874, 1686025) string-range(#jstor44871325, 26070, 26175)"/>
+    <link target="string-range(#FW, 567528, 567582) string-range(#jstor3831076, 7026, 7081)"/>
+    <link target="string-range(#FW, 2635582, 2635624) string-range(#jstor20078136, 46166, 46208)"/>
+    <link target="string-range(#FW, 746575, 746630) string-range(#jstor10.2307/3171026, 11237, 11292)"/>
+    <link target="string-range(#FW, 747126, 747285) string-range(#jstor10.2307/3171026, 11558, 11671)"/>
+    <link target="string-range(#FW, 747349, 747511) string-range(#jstor10.2307/3171026, 11689, 11805)"/>
+    <link target="string-range(#FW, 1861796, 1861942) string-range(#jstor25478021, 12808, 12907)"/>
+    <link target="string-range(#FW, 57102, 57152) string-range(#jstor42946244, 165, 215)"/>
+    <link target="string-range(#FW, 503181, 503321) string-range(#jstor24598574, 34645, 34738)"/>
+    <link target="string-range(#FW, 2009358, 2009512) string-range(#jstor44871103, 65488, 65596)"/>
+    <link target="string-range(#FW, 117808, 117847) string-range(#jstor26421743, 20340, 20380)"/>
+    <link target="string-range(#FW, 1207543, 1207607) string-range(#jstor26283659, 20152, 20216)"/>
+    <link target="string-range(#FW, 2635582, 2635624) string-range(#jstor3831701, 30141, 30183)"/>
+    <link target="string-range(#FW, 131660, 131709) string-range(#jstor10.2307/461052, 24189, 24238)"/>
+    <link target="string-range(#FW, 749269, 749440) string-range(#jstor10.2307/461052, 31968, 32093)"/>
+    <link target="string-range(#FW, 1865291, 1865452) string-range(#jstorantiochreview.71.2.0348, 76741, 76858)"/>
+  </linkGrp>
+</standOff>
