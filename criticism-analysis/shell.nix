@@ -40,6 +40,7 @@ in pkgs.python3.buildEnv.override rec {
     extraLibs = with pkgs.python3Packages; [
 	    matplotlib
       pandas
+      pyenchant
       jupyter
       scikitlearn
       newAltair

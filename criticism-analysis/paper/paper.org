@@ -30,10 +30,15 @@ However, since XML is notorious for certain limitations, such as its inability t
 #+LABEL: fig:by-date.png
 [[./by-date.png]]
 
-The greatest insight of this project, however, comes not from the creation of a website, but from the data generated from an analysis of its content. [@Fig:numQuotations] shows the number of quotations of the /Wake/ found in the secondary literature, according to their position in the novel, with the novel's first passages on the left, and the last on the right. The shape of this bar chart is strikingly similar to that found in a similar study of /Middlemarch/, and with a larger unpublished analysis at the Stanford Literary Lab, comparing literary texts and their quotations in British Periodicals Online [@reeve2017frequently].
+The more important insights of this project, however, come not from the creation of a product like a website, but from the data generated from an analysis of its content. [@Fig:numQuotations] shows the number of quotations of the /Wake/ found in the secondary literature, according to their position in the novel, with the novel's first passages on the left, and the last on the right. The shape of this bar chart is strikingly similar to that found in a similar study of /Middlemarch/, and with a larger unpublished analysis at the Stanford Literary Lab, comparing literary texts and their quotations in British Periodicals Online [@reeve2017frequently]. In all of these cases, the third quarter of each novel is the least quoted.
 
-If we examine the date ranges of these quotations, as shown in [@fig:numQuotations], we see that the greatest number of them come after 1986. While some of this trend may be attributable to an uneven availability of journals digitized for JSTOR, it is nonetheless suggestive of a significant jump in critical attention to the /Wake/ around this time. [Richard: do you have a guess as to why this might be?]
+To test whether the novel's critical quotability was correlated with its intelligibility, we computed the proportion of words which a spell checker identified as misspelled, as shown in [@fig:spell-check]. There, the largest proportions were in the beginning and the middle, but overall they do not correlate significantly with the most-quoted segments.
 
+#+CAPTION: Spell-checking Failure by Novel Segment
+#+LABEL: fig:spell-check
+[[./spell-check.png]]
+
+If we examine the date ranges of these quotations, as shown in [@fig:numQuotations], we see that the greatest number of them come after 1986. While some of this trend may be attributable to an uneven availability of journals digitized for JSTOR, it is nonetheless suggestive of a significant jump in critical attention to the /Wake/ around this time, possibly influenced by its publication trend: the greatest number of /Wake/ editions, in the history of its publication, appear only a few years before, in the late '70s and early '80s, according to our analysis of data from the Open Library API.[fn:5]
 
 [fn:1] See page vii of Seamus Deane's introduction to the Penguin edition of /Finnegans Wake/ (London, 1992), for example.
 
@@ -42,5 +47,7 @@ If we examine the date ranges of these quotations, as shown in [@fig:numQuotatio
 [fn:3] Open Editions, at [[https://open-editions.org][open-editions.org]], is first described in [@reeve2019open], and encompasses a specification for the creation of richly-annotated TEI XML scholarly editions, along with a software stack that manages and publishes them.
 
 [fn:4] For an introduction to the TEI, see [@cummings2013text].
+
+[fn:5] For more details on the publication history of /Finnegans Wake/, see [[https://github.com/open-editions/corpus-joyce-finnegans-wake-tei/tree/master/criticism-analysis/metadata-analysis.ipynb.][our analysis notebook]].
 
 * Works Cited
