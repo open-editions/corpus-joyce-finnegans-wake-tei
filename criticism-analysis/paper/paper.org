@@ -20,7 +20,7 @@ To find these areas of critical interest, we use the text reuse detection progra
 
 From the beginning, we didn't want this project to be restricted to just the /Wake/, but to build a repeatable, standards-focused framework which could be used in other applications. Toward this end, we chose to encode data in TEI XML, such that our digital edition, accompanying annotations, and all related information would be available for future projects to remix and reuse. This follows the methodology used by Open Editions, a project to which this experiment contributes.[fn:3]
 
-However, since XML is notorious for certain limitations, such as its inability to encorporate overlapping tags, we use a relatively new TEI feature, the ~<standOff>~ tag, which allows us to maintain a separate file containing links from passages in our source XML to the JSTOR articles that quote them, with character offsets and bibliographic metadata for each. These two files—the text and annotations—are then transformed into HTML using a custom script written in the Haskell programming language, and served as a static website.
+However, since XML is notorious for certain limitations, such as its inability to encorporate overlapping tags, we use a relatively new TEI feature, the ~<standOff>~ tag, which allows us to maintain a separate file containing links from passages in our source XML to the JSTOR articles that quote them, with character offsets and bibliographic metadata for each. These two files—the text and annotations—are then transformed into HTML using a custom script written in the Haskell programming language, and served as a static website. The result is a interactive edition, similar to that of JSTOR's own [[https://www.jstor.org/understand/]["understanding" series]], in which textual passages link to critical articles that discuss them.
 
 #+CAPTION: Quotations in Narrative Time
 #+LABEL: fig:numQuotations
@@ -39,6 +39,8 @@ To test whether the novel's critical quotability was correlated with its intelli
 [[./spell-check.png]]
 
 If we examine the date ranges of these quotations, as shown in [@fig:numQuotations], we see that the greatest number of them come after 1986. While some of this trend may be attributable to an uneven availability of journals digitized for JSTOR, it is nonetheless suggestive of a significant jump in critical attention to the /Wake/ around this time, possibly influenced by its publication trend: the greatest number of /Wake/ editions, in the history of its publication, appear only a few years before, in the late '70s and early '80s, according to our analysis of data from the Open Library API.[fn:5]
+
+All of the data and code used to create this project is freely available on GitHub, via Open Editions. We encourage others to reproduce these experiments, and create their own analyses with our data.
 
 [fn:1] See page vii of Seamus Deane's introduction to the Penguin edition of /Finnegans Wake/ (London, 1992), for example.
 
