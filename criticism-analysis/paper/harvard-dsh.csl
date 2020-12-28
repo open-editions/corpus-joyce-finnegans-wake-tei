@@ -144,12 +144,16 @@
       <text term="volume" form="short" prefix=" " suffix="." plural="true"/>
     </group>
   </macro>
-  <citation et-al-min="3" et-al-use-first="1" disambiguate-add-year-suffix="true" disambiguate-add-names="true" disambiguate-add-givenname="true" collapse="year">
-    <layout prefix="(" suffix=")" delimiter="; ">
+  <citation et-al-min="3" et-al-use-first="1" disambiguate-add-givenname="true" disambiguate-add-year-suffix="true" collapse="year" cite-group-delimiter=", ">
+    <sort>
+      <key macro="author"/>
+      <key macro="issued" sort="descending"/>
+    </sort>
+    <layout delimiter="; ">
       <group delimiter=", ">
         <text macro="author-short"/>
         <text macro="year-date"/>
-        <group>
+        <group delimiter=" ">
           <label variable="locator" form="short"/>
           <text variable="locator"/>
         </group>

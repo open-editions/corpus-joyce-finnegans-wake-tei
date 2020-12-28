@@ -44,14 +44,13 @@ in pkgs.python3.buildEnv.override rec {
       jupyter
       scikitlearn
       newAltair
+      spacy
+      spacy_models.en_core_web_lg
+      plotly ipywidgets
       dominate
-      # plotly
-      newPlotly
-      # chart-studio
       jupyterlab # Dev
-      # flake8  # Dev
-      # python-language-server
-      # pyls-mypy
+      python-language-server
       toolz
+      langdetect
     ];
   }).env
